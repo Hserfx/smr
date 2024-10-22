@@ -1,0 +1,1936 @@
+2024-10-22 14:43:43,610 app started
+2024-10-22 14:43:43,611 sending token request...
+2024-10-22 14:43:43,761 token granted
+2024-10-22 14:43:43,761 sending request to get ids
+2024-10-22 14:43:43,858 organizations data acquired
+2024-10-22 14:43:43,858 requesting reports
+2024-10-22 14:43:43,993 request denied with status code {r.status_code}
+2024-10-22 14:45:00,683 app started
+2024-10-22 14:45:00,683 sending token request...
+2024-10-22 14:45:01,012 token granted
+2024-10-22 14:45:01,012 sending request to get ids
+2024-10-22 14:45:01,113 organizations data acquired
+2024-10-22 14:45:01,113 requesting reports
+2024-10-22 14:47:14,767 app started
+2024-10-22 14:47:14,768 sending token request...
+2024-10-22 14:47:14,913 token granted
+2024-10-22 14:47:14,914 sending request to get ids
+2024-10-22 14:47:15,022 organizations data acquired
+2024-10-22 14:47:15,023 requesting reports
+2024-10-22 14:50:05,679 app started
+2024-10-22 14:50:05,680 sending token request...
+2024-10-22 14:50:05,820 token granted
+2024-10-22 14:50:05,820 sending request to get ids
+2024-10-22 14:50:05,921 organizations data acquired
+2024-10-22 14:50:20,232 app started
+2024-10-22 14:50:20,232 sending token request...
+2024-10-22 14:50:20,378 token granted
+2024-10-22 14:50:20,378 sending request to get ids
+2024-10-22 14:50:20,487 organizations data acquired
+2024-10-22 14:50:20,487 requesting reports
+2024-10-22 15:00:00,882 app started
+2024-10-22 15:00:00,883 sending token request...
+2024-10-22 15:00:01,654 token granted
+2024-10-22 15:00:01,654 sending request to get ids
+2024-10-22 15:00:01,751 organizations data acquired
+2024-10-22 15:00:01,751 requesting reports
+2024-10-22 15:00:40,852 app started
+2024-10-22 15:00:40,853 sending token request...
+2024-10-22 15:00:40,990 token granted
+2024-10-22 15:00:40,991 sending request to get ids
+2024-10-22 15:00:41,091 organizations data acquired
+2024-10-22 15:00:41,091 requesting reports
+2024-10-22 15:00:57,078 app started
+2024-10-22 15:00:57,079 sending token request...
+2024-10-22 15:00:57,212 token granted
+2024-10-22 15:00:57,213 sending request to get ids
+2024-10-22 15:00:57,315 organizations data acquired
+2024-10-22 15:00:57,315 requesting reports
+2024-10-22 15:01:12,428 app started
+2024-10-22 15:01:12,429 sending token request...
+2024-10-22 15:01:12,574 token granted
+2024-10-22 15:01:12,575 sending request to get ids
+2024-10-22 15:01:12,678 organizations data acquired
+2024-10-22 15:01:12,678 requesting reports
+2024-10-22 15:01:55,830 app started
+2024-10-22 15:01:55,831 sending token request...
+2024-10-22 15:01:55,978 token granted
+2024-10-22 15:01:55,979 sending request to get ids
+2024-10-22 15:01:56,081 organizations data acquired
+2024-10-22 15:01:56,081 requesting reports
+2024-10-22 15:02:21,674 app started
+2024-10-22 15:02:21,675 sending token request...
+2024-10-22 15:02:21,831 token granted
+2024-10-22 15:02:21,831 sending request to get ids
+2024-10-22 15:02:21,931 organizations data acquired
+2024-10-22 15:02:21,931 requesting reports
+2024-10-22 15:03:40,811 app started
+2024-10-22 15:03:40,812 sending token request...
+2024-10-22 15:03:40,971 token granted
+2024-10-22 15:03:40,972 sending request to get ids
+2024-10-22 15:03:41,068 organizations data acquired
+2024-10-22 15:03:41,069 requesting reports
+2024-10-22 15:03:51,822 app started
+2024-10-22 15:03:51,823 sending token request...
+2024-10-22 15:03:51,963 token granted
+2024-10-22 15:03:51,963 sending request to get ids
+2024-10-22 15:03:52,069 organizations data acquired
+2024-10-22 15:03:52,070 requesting reports
+2024-10-22 15:04:17,098 app started
+2024-10-22 15:04:17,098 sending token request...
+2024-10-22 15:04:17,250 token granted
+2024-10-22 15:04:17,251 sending request to get ids
+2024-10-22 15:04:17,352 organizations data acquired
+2024-10-22 15:04:17,352 requesting reports
+2024-10-22 15:04:32,360 app started
+2024-10-22 15:04:32,360 sending token request...
+2024-10-22 15:04:32,501 token granted
+2024-10-22 15:04:32,502 sending request to get ids
+2024-10-22 15:04:32,614 organizations data acquired
+2024-10-22 15:04:32,615 requesting reports
+2024-10-22 15:06:46,715 app started
+2024-10-22 15:06:46,715 sending token request...
+2024-10-22 15:06:46,856 token granted
+2024-10-22 15:06:46,857 sending request to get ids
+2024-10-22 15:06:46,963 organizations data acquired
+2024-10-22 15:07:17,135 app started
+2024-10-22 15:07:17,136 sending token request...
+2024-10-22 15:07:17,258 token granted
+2024-10-22 15:07:17,258 sending request to get ids
+2024-10-22 15:07:17,360 organizations data acquired
+2024-10-22 15:07:17,361 requesting reports
+2024-10-22 15:07:17,522 request denied with status code {r.status_code}
+2024-10-22 15:07:51,557 app started
+2024-10-22 15:07:51,558 sending token request...
+2024-10-22 15:07:51,709 token granted
+2024-10-22 15:07:51,709 sending request to get ids
+2024-10-22 15:07:51,803 organizations data acquired
+2024-10-22 15:07:51,803 requesting reports
+2024-10-22 15:07:51,932 request denied with status code {r.status_code}
+2024-10-22 15:08:15,126 app started
+2024-10-22 15:08:15,127 sending token request...
+2024-10-22 15:08:15,250 token granted
+2024-10-22 15:08:15,251 sending request to get ids
+2024-10-22 15:08:15,350 organizations data acquired
+2024-10-22 15:08:15,351 requesting reports
+2024-10-22 15:08:15,520 request denied with status code {r.status_code}
+2024-10-22 15:09:24,619 app started
+2024-10-22 15:09:24,620 sending token request...
+2024-10-22 15:09:24,763 token granted
+2024-10-22 15:09:24,764 sending request to get ids
+2024-10-22 15:09:24,862 organizations data acquired
+2024-10-22 15:09:24,863 requesting reports
+2024-10-22 15:09:54,106 app started
+2024-10-22 15:09:54,106 sending token request...
+2024-10-22 15:09:54,241 token granted
+2024-10-22 15:09:54,241 sending request to get ids
+2024-10-22 15:09:54,347 organizations data acquired
+2024-10-22 15:09:54,347 requesting reports
+2024-10-22 15:10:05,991 app started
+2024-10-22 15:10:05,992 sending token request...
+2024-10-22 15:10:06,170 token granted
+2024-10-22 15:10:06,170 sending request to get ids
+2024-10-22 15:10:06,273 organizations data acquired
+2024-10-22 15:10:06,273 requesting reports
+2024-10-22 15:10:45,829 app started
+2024-10-22 15:10:45,830 sending token request...
+2024-10-22 15:10:45,974 token granted
+2024-10-22 15:10:45,974 sending request to get ids
+2024-10-22 15:10:46,070 organizations data acquired
+2024-10-22 15:10:46,070 requesting reports
+2024-10-22 15:11:30,013 app started
+2024-10-22 15:11:30,014 sending token request...
+2024-10-22 15:11:30,164 token granted
+2024-10-22 15:11:30,165 sending request to get ids
+2024-10-22 15:11:30,268 organizations data acquired
+2024-10-22 15:11:30,268 requesting reports
+2024-10-22 15:12:03,238 app started
+2024-10-22 15:12:03,238 sending token request...
+2024-10-22 15:12:03,387 token granted
+2024-10-22 15:12:03,387 sending request to get ids
+2024-10-22 15:12:03,491 organizations data acquired
+2024-10-22 15:12:03,491 requesting reports
+2024-10-22 15:13:43,769 app started
+2024-10-22 15:13:43,770 sending token request...
+2024-10-22 15:13:43,912 token granted
+2024-10-22 15:13:43,912 sending request to get ids
+2024-10-22 15:13:44,011 organizations data acquired
+2024-10-22 15:13:44,011 requesting reports
+2024-10-22 15:13:44,252 requesting reports
+2024-10-22 15:13:44,421 request denied with status code {r.status_code}
+2024-10-22 15:14:00,360 app started
+2024-10-22 15:14:00,361 sending token request...
+2024-10-22 15:14:00,504 token granted
+2024-10-22 15:14:00,504 sending request to get ids
+2024-10-22 15:14:00,601 organizations data acquired
+2024-10-22 15:14:00,602 requesting reports
+2024-10-22 15:14:00,943 requesting reports
+2024-10-22 15:14:01,129 request denied with status code {r.status_code}
+2024-10-22 15:14:57,828 app started
+2024-10-22 15:14:57,829 sending token request...
+2024-10-22 15:14:58,006 token granted
+2024-10-22 15:14:58,006 sending request to get ids
+2024-10-22 15:14:58,109 organizations data acquired
+2024-10-22 15:14:58,109 requesting reports
+2024-10-22 15:14:58,340 requesting reports
+2024-10-22 15:14:58,500 request denied with status code {r.status_code}
+2024-10-22 15:15:06,413 app started
+2024-10-22 15:15:06,413 sending token request...
+2024-10-22 15:15:06,560 token granted
+2024-10-22 15:15:06,560 sending request to get ids
+2024-10-22 15:15:06,662 organizations data acquired
+2024-10-22 15:15:06,662 requesting reports
+2024-10-22 15:15:07,044 requesting reports
+2024-10-22 15:15:07,195 request denied with status code {r.status_code}
+2024-10-22 15:15:42,672 app started
+2024-10-22 15:15:42,672 sending token request...
+2024-10-22 15:15:42,808 token granted
+2024-10-22 15:15:42,808 sending request to get ids
+2024-10-22 15:15:42,907 organizations data acquired
+2024-10-22 15:15:42,907 requesting reports
+2024-10-22 15:15:43,142 requesting reports
+2024-10-22 15:15:43,333 request denied with status code {r.status_code}
+2024-10-22 15:16:06,702 app started
+2024-10-22 15:16:06,703 sending token request...
+2024-10-22 15:16:06,872 token granted
+2024-10-22 15:16:06,873 sending request to get ids
+2024-10-22 15:16:06,977 organizations data acquired
+2024-10-22 15:16:06,977 requesting reports
+2024-10-22 15:16:07,238 requesting reports
+2024-10-22 15:16:07,406 request denied with status code {r.status_code}
+2024-10-22 15:16:24,178 app started
+2024-10-22 15:16:24,179 sending token request...
+2024-10-22 15:16:24,327 token granted
+2024-10-22 15:16:24,328 sending request to get ids
+2024-10-22 15:16:24,425 organizations data acquired
+2024-10-22 15:16:24,425 requesting reports
+2024-10-22 15:16:24,628 requesting reports
+2024-10-22 15:16:24,866 requesting reports
+2024-10-22 15:16:25,033 requesting reports
+2024-10-22 15:16:25,227 requesting reports
+2024-10-22 15:16:25,386 requesting reports
+2024-10-22 15:16:25,560 requesting reports
+2024-10-22 15:16:25,764 requesting reports
+2024-10-22 15:16:25,912 requesting reports
+2024-10-22 15:16:26,071 requesting reports
+2024-10-22 15:16:26,247 requesting reports
+2024-10-22 15:16:26,414 requesting reports
+2024-10-22 15:16:26,572 requesting reports
+2024-10-22 15:16:26,720 requesting reports
+2024-10-22 15:16:26,889 requesting reports
+2024-10-22 15:16:27,072 requesting reports
+2024-10-22 15:16:27,275 requesting reports
+2024-10-22 15:16:27,533 requesting reports
+2024-10-22 15:16:27,700 requesting reports
+2024-10-22 15:16:27,888 requesting reports
+2024-10-22 15:16:28,046 requesting reports
+2024-10-22 15:16:28,220 requesting reports
+2024-10-22 15:16:28,399 requesting reports
+2024-10-22 15:16:28,571 requesting reports
+2024-10-22 15:16:28,747 requesting reports
+2024-10-22 15:16:28,896 requesting reports
+2024-10-22 15:16:29,099 requesting reports
+2024-10-22 15:16:29,244 requesting reports
+2024-10-22 15:16:29,460 requesting reports
+2024-10-22 15:16:29,642 requesting reports
+2024-10-22 15:16:29,812 requesting reports
+2024-10-22 15:16:30,001 requesting reports
+2024-10-22 15:16:30,167 requesting reports
+2024-10-22 15:16:30,381 requesting reports
+2024-10-22 15:16:30,548 requesting reports
+2024-10-22 15:16:30,740 requesting reports
+2024-10-22 15:16:30,940 requesting reports
+2024-10-22 15:16:31,119 requesting reports
+2024-10-22 15:16:31,284 requesting reports
+2024-10-22 15:16:31,486 requesting reports
+2024-10-22 15:16:31,663 requesting reports
+2024-10-22 15:16:31,848 requesting reports
+2024-10-22 15:16:32,028 requesting reports
+2024-10-22 15:16:32,184 requesting reports
+2024-10-22 15:16:32,351 requesting reports
+2024-10-22 15:16:32,513 requesting reports
+2024-10-22 15:16:32,715 requesting reports
+2024-10-22 15:16:32,866 requesting reports
+2024-10-22 15:16:33,020 requesting reports
+2024-10-22 15:16:33,175 requesting reports
+2024-10-22 15:16:33,322 requesting reports
+2024-10-22 15:16:33,489 requesting reports
+2024-10-22 15:16:33,678 request denied with status code {r.status_code}
+2024-10-22 15:17:07,553 app started
+2024-10-22 15:17:07,553 sending token request...
+2024-10-22 15:17:07,693 token granted
+2024-10-22 15:17:07,693 sending request to get ids
+2024-10-22 15:17:07,796 organizations data acquired
+2024-10-22 15:17:07,796 requesting reports
+2024-10-22 15:17:08,040 requesting reports
+2024-10-22 15:17:08,233 requesting reports
+2024-10-22 15:17:08,383 requesting reports
+2024-10-22 15:17:08,530 requesting reports
+2024-10-22 15:17:08,705 requesting reports
+2024-10-22 15:17:08,875 requesting reports
+2024-10-22 15:17:09,073 requesting reports
+2024-10-22 15:17:09,251 requesting reports
+2024-10-22 15:17:09,407 requesting reports
+2024-10-22 15:17:09,591 requesting reports
+2024-10-22 15:17:09,749 requesting reports
+2024-10-22 15:17:09,960 requesting reports
+2024-10-22 15:17:10,108 requesting reports
+2024-10-22 15:17:10,256 requesting reports
+2024-10-22 15:17:10,436 requesting reports
+2024-10-22 15:17:10,652 requesting reports
+2024-10-22 15:17:10,846 requesting reports
+2024-10-22 15:17:11,008 requesting reports
+2024-10-22 15:17:11,179 requesting reports
+2024-10-22 15:17:11,348 requesting reports
+2024-10-22 15:17:11,532 requesting reports
+2024-10-22 15:17:11,742 requesting reports
+2024-10-22 15:17:11,939 requesting reports
+2024-10-22 15:17:12,139 requesting reports
+2024-10-22 15:17:12,341 requesting reports
+2024-10-22 15:17:12,579 requesting reports
+2024-10-22 15:17:12,798 requesting reports
+2024-10-22 15:17:12,967 requesting reports
+2024-10-22 15:17:13,137 requesting reports
+2024-10-22 15:17:13,297 requesting reports
+2024-10-22 15:17:13,452 requesting reports
+2024-10-22 15:17:13,607 requesting reports
+2024-10-22 15:17:13,828 requesting reports
+2024-10-22 15:17:14,003 requesting reports
+2024-10-22 15:17:14,168 requesting reports
+2024-10-22 15:17:14,359 requesting reports
+2024-10-22 15:17:14,534 requesting reports
+2024-10-22 15:17:14,724 requesting reports
+2024-10-22 15:17:14,906 requesting reports
+2024-10-22 15:17:15,154 requesting reports
+2024-10-22 15:17:15,324 requesting reports
+2024-10-22 15:17:15,476 requesting reports
+2024-10-22 15:17:15,670 requesting reports
+2024-10-22 15:17:15,848 requesting reports
+2024-10-22 15:17:15,999 requesting reports
+2024-10-22 15:17:16,197 requesting reports
+2024-10-22 15:17:16,388 requesting reports
+2024-10-22 15:17:16,569 requesting reports
+2024-10-22 15:17:16,742 requesting reports
+2024-10-22 15:17:16,935 requesting reports
+2024-10-22 15:17:17,128 requesting reports
+2024-10-22 15:17:17,318 request denied with status code {r.status_code}
+2024-10-22 15:18:10,338 app started
+2024-10-22 15:18:10,339 sending token request...
+2024-10-22 15:18:10,504 token granted
+2024-10-22 15:18:10,504 sending request to get ids
+2024-10-22 15:18:10,597 organizations data acquired
+2024-10-22 15:18:10,597 requesting reports
+2024-10-22 15:18:10,856 requesting reports
+2024-10-22 15:18:11,042 requesting reports
+2024-10-22 15:18:11,207 requesting reports
+2024-10-22 15:18:11,366 requesting reports
+2024-10-22 15:18:11,545 requesting reports
+2024-10-22 15:18:11,689 requesting reports
+2024-10-22 15:18:11,899 requesting reports
+2024-10-22 15:18:12,068 requesting reports
+2024-10-22 15:18:12,244 requesting reports
+2024-10-22 15:18:12,428 requesting reports
+2024-10-22 15:18:12,600 requesting reports
+2024-10-22 15:18:12,800 requesting reports
+2024-10-22 15:18:12,983 requesting reports
+2024-10-22 15:18:13,139 requesting reports
+2024-10-22 15:18:13,308 requesting reports
+2024-10-22 15:18:13,472 requesting reports
+2024-10-22 15:18:13,622 requesting reports
+2024-10-22 15:18:13,814 requesting reports
+2024-10-22 15:18:14,002 requesting reports
+2024-10-22 15:18:14,171 requesting reports
+2024-10-22 15:18:14,328 requesting reports
+2024-10-22 15:18:14,495 requesting reports
+2024-10-22 15:18:14,654 requesting reports
+2024-10-22 15:18:14,861 requesting reports
+2024-10-22 15:18:15,036 requesting reports
+2024-10-22 15:18:15,220 requesting reports
+2024-10-22 15:18:15,374 requesting reports
+2024-10-22 15:18:15,535 requesting reports
+2024-10-22 15:18:15,743 requesting reports
+2024-10-22 15:18:15,938 requesting reports
+2024-10-22 15:18:16,095 requesting reports
+2024-10-22 15:18:16,269 requesting reports
+2024-10-22 15:18:16,418 requesting reports
+2024-10-22 15:18:16,576 requesting reports
+2024-10-22 15:18:16,727 requesting reports
+2024-10-22 15:18:16,908 requesting reports
+2024-10-22 15:18:17,066 requesting reports
+2024-10-22 15:18:17,260 requesting reports
+2024-10-22 15:18:17,413 requesting reports
+2024-10-22 15:18:17,563 requesting reports
+2024-10-22 15:18:17,775 requesting reports
+2024-10-22 15:18:18,014 requesting reports
+2024-10-22 15:18:18,178 requesting reports
+2024-10-22 15:18:18,335 requesting reports
+2024-10-22 15:18:18,539 requesting reports
+2024-10-22 15:18:18,701 requesting reports
+2024-10-22 15:18:18,853 requesting reports
+2024-10-22 15:18:19,016 requesting reports
+2024-10-22 15:18:19,191 requesting reports
+2024-10-22 15:18:19,346 requesting reports
+2024-10-22 15:18:19,589 requesting reports
+2024-10-22 15:18:19,737 request denied with status code {r.status_code}
+2024-10-22 15:18:32,429 app started
+2024-10-22 15:18:32,429 sending token request...
+2024-10-22 15:18:32,572 token granted
+2024-10-22 15:18:32,573 sending request to get ids
+2024-10-22 15:18:32,676 organizations data acquired
+2024-10-22 15:18:32,677 requesting reports
+2024-10-22 15:18:32,876 requesting reports
+2024-10-22 15:18:33,056 requesting reports
+2024-10-22 15:18:33,223 requesting reports
+2024-10-22 15:18:33,392 requesting reports
+2024-10-22 15:18:33,547 requesting reports
+2024-10-22 15:18:33,766 requesting reports
+2024-10-22 15:18:33,914 requesting reports
+2024-10-22 15:18:34,078 requesting reports
+2024-10-22 15:18:34,229 requesting reports
+2024-10-22 15:18:34,396 requesting reports
+2024-10-22 15:18:34,582 requesting reports
+2024-10-22 15:18:34,785 requesting reports
+2024-10-22 15:18:34,934 requesting reports
+2024-10-22 15:18:35,089 requesting reports
+2024-10-22 15:18:35,314 requesting reports
+2024-10-22 15:18:35,490 requesting reports
+2024-10-22 15:18:35,630 requesting reports
+2024-10-22 15:18:35,786 requesting reports
+2024-10-22 15:18:35,947 requesting reports
+2024-10-22 15:18:36,138 requesting reports
+2024-10-22 15:18:36,312 requesting reports
+2024-10-22 15:18:36,481 requesting reports
+2024-10-22 15:18:36,663 requesting reports
+2024-10-22 15:18:36,810 requesting reports
+2024-10-22 15:18:37,018 requesting reports
+2024-10-22 15:18:37,158 requesting reports
+2024-10-22 15:18:37,326 requesting reports
+2024-10-22 15:18:37,526 requesting reports
+2024-10-22 15:18:37,736 requesting reports
+2024-10-22 15:18:37,886 requesting reports
+2024-10-22 15:18:38,061 requesting reports
+2024-10-22 15:18:38,220 requesting reports
+2024-10-22 15:18:38,397 requesting reports
+2024-10-22 15:18:38,552 requesting reports
+2024-10-22 15:18:38,719 requesting reports
+2024-10-22 15:18:38,908 requesting reports
+2024-10-22 15:18:39,093 requesting reports
+2024-10-22 15:18:39,285 requesting reports
+2024-10-22 15:18:39,457 requesting reports
+2024-10-22 15:18:39,635 requesting reports
+2024-10-22 15:18:39,800 requesting reports
+2024-10-22 15:18:39,990 requesting reports
+2024-10-22 15:18:40,152 requesting reports
+2024-10-22 15:18:40,304 requesting reports
+2024-10-22 15:18:40,469 requesting reports
+2024-10-22 15:18:40,672 requesting reports
+2024-10-22 15:18:40,854 requesting reports
+2024-10-22 15:18:41,010 requesting reports
+2024-10-22 15:18:41,111 request denied with status code {r.status_code}
+2024-10-22 15:19:13,733 app started
+2024-10-22 15:19:13,734 sending token request...
+2024-10-22 15:19:13,917 token granted
+2024-10-22 15:19:13,917 sending request to get ids
+2024-10-22 15:19:14,013 organizations data acquired
+2024-10-22 15:19:14,013 requesting reports
+2024-10-22 15:19:14,225 requesting reports
+2024-10-22 15:19:14,418 requesting reports
+2024-10-22 15:19:14,617 requesting reports
+2024-10-22 15:19:14,768 requesting reports
+2024-10-22 15:19:14,962 requesting reports
+2024-10-22 15:19:15,149 requesting reports
+2024-10-22 15:19:15,340 requesting reports
+2024-10-22 15:19:15,529 requesting reports
+2024-10-22 15:19:15,737 requesting reports
+2024-10-22 15:19:15,921 requesting reports
+2024-10-22 15:19:16,132 requesting reports
+2024-10-22 15:19:16,312 requesting reports
+2024-10-22 15:19:16,482 requesting reports
+2024-10-22 15:19:16,632 requesting reports
+2024-10-22 15:19:16,806 requesting reports
+2024-10-22 15:19:17,022 requesting reports
+2024-10-22 15:19:17,180 requesting reports
+2024-10-22 15:19:17,386 requesting reports
+2024-10-22 15:19:17,580 requesting reports
+2024-10-22 15:19:17,787 requesting reports
+2024-10-22 15:19:17,942 requesting reports
+2024-10-22 15:19:18,101 requesting reports
+2024-10-22 15:19:18,254 requesting reports
+2024-10-22 15:19:18,439 requesting reports
+2024-10-22 15:19:18,620 requesting reports
+2024-10-22 15:19:18,807 requesting reports
+2024-10-22 15:19:18,986 requesting reports
+2024-10-22 15:19:19,169 requesting reports
+2024-10-22 15:19:19,362 requesting reports
+2024-10-22 15:19:19,549 requesting reports
+2024-10-22 15:19:19,737 requesting reports
+2024-10-22 15:19:19,921 requesting reports
+2024-10-22 15:19:20,090 requesting reports
+2024-10-22 15:19:20,271 requesting reports
+2024-10-22 15:19:20,433 requesting reports
+2024-10-22 15:19:20,613 requesting reports
+2024-10-22 15:19:20,790 requesting reports
+2024-10-22 15:19:20,947 requesting reports
+2024-10-22 15:19:21,131 requesting reports
+2024-10-22 15:19:21,285 requesting reports
+2024-10-22 15:19:21,484 requesting reports
+2024-10-22 15:19:21,670 requesting reports
+2024-10-22 15:19:21,852 requesting reports
+2024-10-22 15:19:22,002 requesting reports
+2024-10-22 15:19:22,188 requesting reports
+2024-10-22 15:19:22,391 requesting reports
+2024-10-22 15:19:22,576 requesting reports
+2024-10-22 15:19:22,735 requesting reports
+2024-10-22 15:19:22,895 requesting reports
+2024-10-22 15:19:23,057 requesting reports
+2024-10-22 15:19:23,231 requesting reports
+2024-10-22 15:19:23,394 request denied with status code {r.status_code}
+2024-10-22 15:19:59,333 app started
+2024-10-22 15:19:59,334 sending token request...
+2024-10-22 15:19:59,488 token granted
+2024-10-22 15:19:59,488 sending request to get ids
+2024-10-22 15:19:59,588 organizations data acquired
+2024-10-22 15:19:59,588 requesting reports
+2024-10-22 15:19:59,812 requesting reports
+2024-10-22 15:20:00,018 requesting reports
+2024-10-22 15:20:00,207 requesting reports
+2024-10-22 15:20:00,376 requesting reports
+2024-10-22 15:20:00,570 requesting reports
+2024-10-22 15:20:01,069 requesting reports
+2024-10-22 15:20:01,293 requesting reports
+2024-10-22 15:20:01,464 requesting reports
+2024-10-22 15:20:01,636 requesting reports
+2024-10-22 15:20:41,651 app started
+2024-10-22 15:20:41,652 sending token request...
+2024-10-22 15:20:41,795 token granted
+2024-10-22 15:20:41,795 sending request to get ids
+2024-10-22 15:20:41,893 organizations data acquired
+2024-10-22 15:20:41,893 requesting reports
+2024-10-22 15:20:56,340 app started
+2024-10-22 15:20:56,341 sending token request...
+2024-10-22 15:20:56,495 token granted
+2024-10-22 15:20:56,495 sending request to get ids
+2024-10-22 15:20:56,594 organizations data acquired
+2024-10-22 15:20:56,594 requesting reports
+2024-10-22 15:20:56,852 requesting reports
+2024-10-22 15:20:57,032 requesting reports
+2024-10-22 15:23:32,680 app started
+2024-10-22 15:23:32,681 sending token request...
+2024-10-22 15:23:32,831 token granted
+2024-10-22 15:23:32,831 sending request to get ids
+2024-10-22 15:23:32,927 organizations data acquired
+2024-10-22 15:23:32,928 requesting reports
+2024-10-22 15:23:33,185 requesting reports
+2024-10-22 15:23:33,399 requesting reports
+2024-10-22 15:25:04,018 app started
+2024-10-22 15:25:04,018 sending token request...
+2024-10-22 15:25:04,161 token granted
+2024-10-22 15:25:04,162 sending request to get ids
+2024-10-22 15:25:04,268 organizations data acquired
+2024-10-22 15:25:04,268 requesting reports
+2024-10-22 15:25:04,499 requesting reports
+2024-10-22 15:25:04,713 requesting reports
+2024-10-22 15:25:43,726 app started
+2024-10-22 15:25:43,727 sending token request...
+2024-10-22 15:25:43,862 token granted
+2024-10-22 15:25:43,862 sending request to get ids
+2024-10-22 15:25:43,971 organizations data acquired
+2024-10-22 15:25:43,972 requesting reports
+2024-10-22 15:26:05,732 app started
+2024-10-22 15:26:05,733 sending token request...
+2024-10-22 15:26:05,886 token granted
+2024-10-22 15:26:05,886 sending request to get ids
+2024-10-22 15:26:05,983 organizations data acquired
+2024-10-22 15:26:05,983 requesting reports
+2024-10-22 15:27:25,735 app started
+2024-10-22 15:27:25,735 sending token request...
+2024-10-22 15:27:25,895 token granted
+2024-10-22 15:27:25,895 sending request to get ids
+2024-10-22 15:27:25,988 organizations data acquired
+2024-10-22 15:27:25,988 requesting reports
+2024-10-22 15:27:26,210 requesting reports
+2024-10-22 15:27:26,402 requesting reports
+2024-10-22 15:29:19,234 app started
+2024-10-22 15:29:19,235 sending token request...
+2024-10-22 15:29:19,418 token granted
+2024-10-22 15:29:19,419 sending request to get ids
+2024-10-22 15:29:19,518 organizations data acquired
+2024-10-22 15:29:19,518 requesting reports
+2024-10-22 15:29:19,737 requesting reports
+2024-10-22 15:29:19,930 requesting reports
+2024-10-22 15:29:46,384 app started
+2024-10-22 15:29:46,385 sending token request...
+2024-10-22 15:29:46,523 token granted
+2024-10-22 15:29:46,523 sending request to get ids
+2024-10-22 15:29:46,621 organizations data acquired
+2024-10-22 15:29:46,622 requesting reports
+2024-10-22 15:29:46,851 requesting reports
+2024-10-22 15:29:47,041 requesting reports
+2024-10-22 15:30:59,232 app started
+2024-10-22 15:30:59,233 sending token request...
+2024-10-22 15:30:59,383 token granted
+2024-10-22 15:30:59,383 sending request to get ids
+2024-10-22 15:30:59,489 organizations data acquired
+2024-10-22 15:30:59,489 requesting reports
+2024-10-22 15:30:59,698 requesting reports
+2024-10-22 15:30:59,882 requesting reports
+2024-10-22 15:31:07,277 app started
+2024-10-22 15:31:07,278 sending token request...
+2024-10-22 15:31:07,419 token granted
+2024-10-22 15:31:07,419 sending request to get ids
+2024-10-22 15:31:07,515 organizations data acquired
+2024-10-22 15:31:07,515 requesting reports
+2024-10-22 15:31:07,739 requesting reports
+2024-10-22 15:31:07,972 requesting reports
+2024-10-22 15:31:13,406 app started
+2024-10-22 15:31:13,407 sending token request...
+2024-10-22 15:31:13,537 token granted
+2024-10-22 15:31:13,538 sending request to get ids
+2024-10-22 15:31:13,641 organizations data acquired
+2024-10-22 15:31:13,641 requesting reports
+2024-10-22 15:31:13,869 requesting reports
+2024-10-22 15:31:14,063 requesting reports
+2024-10-22 15:32:30,198 app started
+2024-10-22 15:32:30,199 sending token request...
+2024-10-22 15:32:30,341 token granted
+2024-10-22 15:32:30,342 sending request to get ids
+2024-10-22 15:32:30,435 organizations data acquired
+2024-10-22 15:32:30,435 requesting reports
+2024-10-22 15:32:30,727 requesting reports
+2024-10-22 15:32:30,981 requesting reports
+2024-10-22 15:40:36,236 app started
+2024-10-22 15:40:36,237 sending token request...
+2024-10-22 15:40:36,471 token granted
+2024-10-22 15:40:36,471 sending request to get ids
+2024-10-22 15:40:36,568 organizations data acquired
+2024-10-22 15:40:36,568 requesting reports
+2024-10-22 15:40:36,926 requesting reports
+2024-10-22 15:40:37,189 requesting reports
+2024-10-22 15:42:18,761 app started
+2024-10-22 15:42:18,762 sending token request...
+2024-10-22 15:42:18,921 token granted
+2024-10-22 15:42:18,922 sending request to get ids
+2024-10-22 15:42:19,022 organizations data acquired
+2024-10-22 15:42:19,022 requesting reports
+2024-10-22 15:42:19,440 requesting reports
+2024-10-22 15:42:19,708 requesting reports
+2024-10-22 15:42:38,337 app started
+2024-10-22 15:42:38,338 sending token request...
+2024-10-22 15:42:38,490 token granted
+2024-10-22 15:42:38,490 sending request to get ids
+2024-10-22 15:42:38,599 organizations data acquired
+2024-10-22 15:42:38,599 requesting reports
+2024-10-22 15:42:38,880 requesting reports
+2024-10-22 15:42:39,091 requesting reports
+2024-10-22 15:43:28,808 app started
+2024-10-22 15:43:28,809 sending token request...
+2024-10-22 15:43:28,991 token granted
+2024-10-22 15:43:28,992 sending request to get ids
+2024-10-22 15:43:29,094 organizations data acquired
+2024-10-22 15:43:29,094 requesting reports
+2024-10-22 15:43:29,363 requesting reports
+2024-10-22 15:43:29,554 requesting reports
+2024-10-22 15:43:49,964 app started
+2024-10-22 15:43:49,965 sending token request...
+2024-10-22 15:43:50,107 token granted
+2024-10-22 15:43:50,108 sending request to get ids
+2024-10-22 15:43:50,215 organizations data acquired
+2024-10-22 15:43:50,215 requesting reports
+2024-10-22 15:43:50,471 requesting reports
+2024-10-22 15:43:50,720 requesting reports
+2024-10-22 15:44:03,505 app started
+2024-10-22 15:44:03,506 sending token request...
+2024-10-22 15:44:03,658 token granted
+2024-10-22 15:44:03,658 sending request to get ids
+2024-10-22 15:44:03,759 organizations data acquired
+2024-10-22 15:44:03,759 requesting reports
+2024-10-22 15:44:04,054 requesting reports
+2024-10-22 15:44:04,281 requesting reports
+2024-10-22 15:45:14,031 app started
+2024-10-22 15:45:14,031 sending token request...
+2024-10-22 15:45:14,186 token granted
+2024-10-22 15:45:14,186 sending request to get ids
+2024-10-22 15:45:14,282 organizations data acquired
+2024-10-22 15:45:14,282 requesting reports
+2024-10-22 15:45:14,654 requesting reports
+2024-10-22 15:45:14,852 requesting reports
+2024-10-22 15:45:35,641 app started
+2024-10-22 15:45:35,641 sending token request...
+2024-10-22 15:45:35,779 token granted
+2024-10-22 15:45:35,780 sending request to get ids
+2024-10-22 15:45:35,884 organizations data acquired
+2024-10-22 15:45:35,885 requesting reports
+2024-10-22 15:45:36,171 requesting reports
+2024-10-22 15:45:36,414 requesting reports
+2024-10-22 15:46:04,497 app started
+2024-10-22 15:46:04,498 sending token request...
+2024-10-22 15:46:04,645 token granted
+2024-10-22 15:46:04,645 sending request to get ids
+2024-10-22 15:46:04,744 organizations data acquired
+2024-10-22 15:46:04,744 requesting reports
+2024-10-22 15:46:05,040 requesting reports
+2024-10-22 15:46:05,389 requesting reports
+2024-10-22 15:52:50,252 app started
+2024-10-22 15:52:50,253 sending token request...
+2024-10-22 15:52:50,396 token granted
+2024-10-22 15:52:50,396 sending request to get ids
+2024-10-22 15:52:50,496 organizations data acquired
+2024-10-22 15:52:50,496 requesting reports
+2024-10-22 15:52:50,795 requesting reports
+2024-10-22 15:52:51,044 requesting reports
+2024-10-22 15:53:22,739 app started
+2024-10-22 15:53:22,739 sending token request...
+2024-10-22 15:53:22,868 token granted
+2024-10-22 15:53:22,868 sending request to get ids
+2024-10-22 15:53:22,970 organizations data acquired
+2024-10-22 15:53:22,970 requesting reports
+2024-10-22 15:53:23,370 requesting reports
+2024-10-22 15:53:23,645 requesting reports
+2024-10-22 15:54:19,031 app started
+2024-10-22 15:54:19,032 sending token request...
+2024-10-22 15:54:19,162 token granted
+2024-10-22 15:54:19,163 sending request to get ids
+2024-10-22 15:54:19,253 organizations data acquired
+2024-10-22 15:54:19,253 requesting reports
+2024-10-22 15:54:19,619 requesting reports
+2024-10-22 15:54:19,868 requesting reports
+2024-10-22 15:54:48,168 app started
+2024-10-22 15:54:48,169 sending token request...
+2024-10-22 15:54:48,312 token granted
+2024-10-22 15:54:48,313 sending request to get ids
+2024-10-22 15:54:48,410 organizations data acquired
+2024-10-22 15:54:48,410 requesting reports
+2024-10-22 15:54:48,794 requesting reports
+2024-10-22 15:54:49,047 requesting reports
+2024-10-22 15:55:01,302 app started
+2024-10-22 15:55:01,303 sending token request...
+2024-10-22 15:55:01,451 token granted
+2024-10-22 15:55:01,452 sending request to get ids
+2024-10-22 15:55:01,555 organizations data acquired
+2024-10-22 15:55:01,555 requesting reports
+2024-10-22 15:55:01,970 requesting reports
+2024-10-22 15:55:02,235 requesting reports
+2024-10-22 15:55:08,060 app started
+2024-10-22 15:55:08,061 sending token request...
+2024-10-22 15:55:08,205 token granted
+2024-10-22 15:55:08,205 sending request to get ids
+2024-10-22 15:55:08,304 organizations data acquired
+2024-10-22 15:55:08,304 requesting reports
+2024-10-22 15:55:08,598 requesting reports
+2024-10-22 15:55:08,866 requesting reports
+2024-10-22 15:55:14,370 app started
+2024-10-22 15:55:14,371 sending token request...
+2024-10-22 15:55:14,500 token granted
+2024-10-22 15:55:14,500 sending request to get ids
+2024-10-22 15:55:14,596 organizations data acquired
+2024-10-22 15:55:14,596 requesting reports
+2024-10-22 15:55:14,953 requesting reports
+2024-10-22 15:55:15,205 requesting reports
+2024-10-22 15:56:51,579 app started
+2024-10-22 15:56:51,580 sending token request...
+2024-10-22 15:56:51,730 token granted
+2024-10-22 15:56:51,731 sending request to get ids
+2024-10-22 15:56:51,831 organizations data acquired
+2024-10-22 15:56:51,831 requesting reports
+2024-10-22 15:56:52,227 requesting reports
+2024-10-22 15:56:52,507 requesting reports
+2024-10-22 15:57:10,059 app started
+2024-10-22 15:57:10,060 sending token request...
+2024-10-22 15:57:10,208 token granted
+2024-10-22 15:57:10,208 sending request to get ids
+2024-10-22 15:57:10,314 organizations data acquired
+2024-10-22 15:57:10,314 requesting reports
+2024-10-22 15:57:10,593 requesting reports
+2024-10-22 15:57:10,821 requesting reports
+2024-10-22 16:03:15,664 app started
+2024-10-22 16:03:15,664 sending token request...
+2024-10-22 16:03:15,804 token granted
+2024-10-22 16:03:15,805 sending request to get ids
+2024-10-22 16:03:15,900 organizations data acquired
+2024-10-22 16:03:15,900 requesting reports
+2024-10-22 16:03:16,259 requesting reports
+2024-10-22 16:03:16,504 requesting reports
+2024-10-22 16:03:27,496 app started
+2024-10-22 16:03:27,496 sending token request...
+2024-10-22 16:03:27,638 token granted
+2024-10-22 16:03:27,639 sending request to get ids
+2024-10-22 16:03:27,741 organizations data acquired
+2024-10-22 16:03:27,741 requesting reports
+2024-10-22 16:03:28,173 requesting reports
+2024-10-22 16:03:35,418 app started
+2024-10-22 16:03:35,419 sending token request...
+2024-10-22 16:03:35,555 token granted
+2024-10-22 16:03:35,556 sending request to get ids
+2024-10-22 16:03:35,669 organizations data acquired
+2024-10-22 16:03:35,669 requesting reports
+2024-10-22 16:03:35,950 requesting reports
+2024-10-22 16:04:46,860 app started
+2024-10-22 16:04:46,861 sending token request...
+2024-10-22 16:04:47,014 token granted
+2024-10-22 16:04:47,014 sending request to get ids
+2024-10-22 16:04:47,108 organizations data acquired
+2024-10-22 16:04:47,109 requesting reports
+2024-10-22 16:04:47,410 requesting reports
+2024-10-22 16:04:47,556 app started
+2024-10-22 16:04:47,556 sending token request...
+2024-10-22 16:04:47,685 token granted
+2024-10-22 16:04:47,686 sending request to get ids
+2024-10-22 16:04:47,791 organizations data acquired
+2024-10-22 16:04:47,791 requesting reports
+2024-10-22 16:04:48,106 requesting reports
+2024-10-22 16:04:48,294 app started
+2024-10-22 16:04:48,294 sending token request...
+2024-10-22 16:04:48,430 token granted
+2024-10-22 16:04:48,430 sending request to get ids
+2024-10-22 16:04:48,528 organizations data acquired
+2024-10-22 16:04:48,528 requesting reports
+2024-10-22 16:04:48,797 requesting reports
+2024-10-22 16:04:48,965 app started
+2024-10-22 16:04:48,966 sending token request...
+2024-10-22 16:04:49,082 token granted
+2024-10-22 16:04:49,082 sending request to get ids
+2024-10-22 16:04:49,178 organizations data acquired
+2024-10-22 16:04:49,178 requesting reports
+2024-10-22 16:04:49,436 requesting reports
+2024-10-22 16:04:49,611 app started
+2024-10-22 16:04:49,612 sending token request...
+2024-10-22 16:04:49,748 token granted
+2024-10-22 16:04:49,748 sending request to get ids
+2024-10-22 16:04:49,844 organizations data acquired
+2024-10-22 16:04:49,844 requesting reports
+2024-10-22 16:04:50,184 requesting reports
+2024-10-22 16:04:50,440 requesting reports
+2024-10-22 16:04:50,636 app started
+2024-10-22 16:04:50,637 sending token request...
+2024-10-22 16:04:50,777 token granted
+2024-10-22 16:04:50,777 sending request to get ids
+2024-10-22 16:04:50,875 organizations data acquired
+2024-10-22 16:04:50,875 requesting reports
+2024-10-22 16:04:51,226 requesting reports
+2024-10-22 16:04:51,466 requesting reports
+2024-10-22 16:04:51,645 app started
+2024-10-22 16:04:51,645 sending token request...
+2024-10-22 16:04:51,789 token granted
+2024-10-22 16:04:51,790 sending request to get ids
+2024-10-22 16:04:51,882 organizations data acquired
+2024-10-22 16:04:51,882 requesting reports
+2024-10-22 16:04:52,218 requesting reports
+2024-10-22 16:04:52,405 app started
+2024-10-22 16:04:52,405 sending token request...
+2024-10-22 16:04:52,536 token granted
+2024-10-22 16:04:52,536 sending request to get ids
+2024-10-22 16:04:52,680 organizations data acquired
+2024-10-22 16:04:52,680 requesting reports
+2024-10-22 16:04:52,970 requesting reports
+2024-10-22 16:04:53,139 app started
+2024-10-22 16:04:53,140 sending token request...
+2024-10-22 16:04:53,256 token granted
+2024-10-22 16:04:53,256 sending request to get ids
+2024-10-22 16:04:53,356 organizations data acquired
+2024-10-22 16:04:53,356 requesting reports
+2024-10-22 16:04:53,617 requesting reports
+2024-10-22 16:04:53,789 app started
+2024-10-22 16:04:53,790 sending token request...
+2024-10-22 16:04:53,918 token granted
+2024-10-22 16:04:53,919 sending request to get ids
+2024-10-22 16:04:54,014 organizations data acquired
+2024-10-22 16:04:54,015 requesting reports
+2024-10-22 16:04:54,302 requesting reports
+2024-10-22 16:04:54,502 app started
+2024-10-22 16:04:54,503 sending token request...
+2024-10-22 16:04:54,637 token granted
+2024-10-22 16:04:54,638 sending request to get ids
+2024-10-22 16:04:54,762 organizations data acquired
+2024-10-22 16:04:54,762 requesting reports
+2024-10-22 16:04:55,088 requesting reports
+2024-10-22 16:04:55,287 requesting reports
+2024-10-22 16:04:55,463 app started
+2024-10-22 16:04:55,463 sending token request...
+2024-10-22 16:04:55,596 token granted
+2024-10-22 16:04:55,596 sending request to get ids
+2024-10-22 16:04:55,692 organizations data acquired
+2024-10-22 16:04:55,692 requesting reports
+2024-10-22 16:04:56,019 requesting reports
+2024-10-22 16:04:56,273 requesting reports
+2024-10-22 16:04:56,473 app started
+2024-10-22 16:04:56,473 sending token request...
+2024-10-22 16:04:56,610 token granted
+2024-10-22 16:04:56,610 sending request to get ids
+2024-10-22 16:04:56,706 organizations data acquired
+2024-10-22 16:04:56,706 requesting reports
+2024-10-22 16:04:57,070 requesting reports
+2024-10-22 16:04:57,309 requesting reports
+2024-10-22 16:04:57,519 app started
+2024-10-22 16:04:57,519 sending token request...
+2024-10-22 16:04:57,645 token granted
+2024-10-22 16:04:57,645 sending request to get ids
+2024-10-22 16:04:57,742 organizations data acquired
+2024-10-22 16:04:57,742 requesting reports
+2024-10-22 16:04:57,988 requesting reports
+2024-10-22 16:04:58,179 app started
+2024-10-22 16:04:58,179 sending token request...
+2024-10-22 16:04:58,315 token granted
+2024-10-22 16:04:58,316 sending request to get ids
+2024-10-22 16:04:58,418 organizations data acquired
+2024-10-22 16:04:58,419 requesting reports
+2024-10-22 16:04:58,665 requesting reports
+2024-10-22 16:04:58,864 app started
+2024-10-22 16:04:58,865 sending token request...
+2024-10-22 16:04:58,983 token granted
+2024-10-22 16:04:58,983 sending request to get ids
+2024-10-22 16:04:59,083 organizations data acquired
+2024-10-22 16:04:59,083 requesting reports
+2024-10-22 16:04:59,305 requesting reports
+2024-10-22 16:04:59,481 app started
+2024-10-22 16:04:59,482 sending token request...
+2024-10-22 16:04:59,610 token granted
+2024-10-22 16:04:59,611 sending request to get ids
+2024-10-22 16:04:59,704 organizations data acquired
+2024-10-22 16:04:59,704 requesting reports
+2024-10-22 16:04:59,949 requesting reports
+2024-10-22 16:05:00,125 app started
+2024-10-22 16:05:00,125 sending token request...
+2024-10-22 16:05:00,254 token granted
+2024-10-22 16:05:00,254 sending request to get ids
+2024-10-22 16:05:00,362 organizations data acquired
+2024-10-22 16:05:00,362 requesting reports
+2024-10-22 16:05:00,785 requesting reports
+2024-10-22 16:05:01,040 app started
+2024-10-22 16:05:01,041 sending token request...
+2024-10-22 16:05:01,196 token granted
+2024-10-22 16:05:01,196 sending request to get ids
+2024-10-22 16:05:01,292 organizations data acquired
+2024-10-22 16:05:01,292 requesting reports
+2024-10-22 16:05:01,670 requesting reports
+2024-10-22 16:05:01,896 requesting reports
+2024-10-22 16:08:27,952 app started
+2024-10-22 16:08:27,952 sending token request...
+2024-10-22 16:08:28,116 token granted
+2024-10-22 16:08:28,116 sending request to get ids
+2024-10-22 16:08:28,228 organizations data acquired
+2024-10-22 16:08:28,228 requesting reports
+2024-10-22 16:08:28,492 requesting reports
+2024-10-22 16:08:28,662 app started
+2024-10-22 16:08:28,663 sending token request...
+2024-10-22 16:08:28,815 token granted
+2024-10-22 16:08:28,815 sending request to get ids
+2024-10-22 16:08:28,913 organizations data acquired
+2024-10-22 16:08:28,913 requesting reports
+2024-10-22 16:08:29,200 requesting reports
+2024-10-22 16:08:29,380 app started
+2024-10-22 16:08:29,381 sending token request...
+2024-10-22 16:08:29,525 token granted
+2024-10-22 16:08:29,525 sending request to get ids
+2024-10-22 16:08:29,622 organizations data acquired
+2024-10-22 16:08:29,622 requesting reports
+2024-10-22 16:08:29,876 requesting reports
+2024-10-22 16:08:30,085 app started
+2024-10-22 16:08:30,085 sending token request...
+2024-10-22 16:08:30,224 token granted
+2024-10-22 16:08:30,224 sending request to get ids
+2024-10-22 16:08:30,323 organizations data acquired
+2024-10-22 16:08:30,323 requesting reports
+2024-10-22 16:08:30,630 requesting reports
+2024-10-22 16:08:30,822 app started
+2024-10-22 16:08:30,823 sending token request...
+2024-10-22 16:08:30,953 token granted
+2024-10-22 16:08:30,953 sending request to get ids
+2024-10-22 16:08:31,052 organizations data acquired
+2024-10-22 16:08:31,052 requesting reports
+2024-10-22 16:08:31,398 requesting reports
+2024-10-22 16:08:31,693 requesting reports
+2024-10-22 16:08:31,868 app started
+2024-10-22 16:08:31,869 sending token request...
+2024-10-22 16:08:32,004 token granted
+2024-10-22 16:08:32,005 sending request to get ids
+2024-10-22 16:08:32,119 organizations data acquired
+2024-10-22 16:08:32,119 requesting reports
+2024-10-22 16:08:32,442 requesting reports
+2024-10-22 16:08:54,720 app started
+2024-10-22 16:08:54,720 sending token request...
+2024-10-22 16:08:54,874 token granted
+2024-10-22 16:08:54,874 sending request to get ids
+2024-10-22 16:08:54,972 organizations data acquired
+2024-10-22 16:08:54,972 requesting reports
+2024-10-22 16:08:55,311 requesting reports
+2024-10-22 16:08:55,548 requesting reports
+2024-10-22 16:26:51,068 app started
+2024-10-22 16:26:51,069 sending token request...
+2024-10-22 16:26:51,223 token granted
+2024-10-22 16:26:51,223 sending request to get ids
+2024-10-22 16:26:51,327 organizations data acquired
+2024-10-22 16:26:51,327 sending request to get orders
+2024-10-22 16:28:07,979 app started
+2024-10-22 16:28:07,980 sending token request...
+2024-10-22 16:28:08,133 token granted
+2024-10-22 16:28:08,134 sending request to get ids
+2024-10-22 16:28:08,233 organizations data acquired
+2024-10-22 16:28:08,233 sending request to get orders
+2024-10-22 16:28:34,043 app started
+2024-10-22 16:28:34,043 sending token request...
+2024-10-22 16:28:34,196 token granted
+2024-10-22 16:28:34,197 sending request to get ids
+2024-10-22 16:28:34,298 organizations data acquired
+2024-10-22 16:28:34,298 sending request to get orders
+2024-10-22 16:29:22,468 app started
+2024-10-22 16:29:22,468 sending token request...
+2024-10-22 16:29:22,609 token granted
+2024-10-22 16:29:22,610 sending request to get ids
+2024-10-22 16:29:22,718 organizations data acquired
+2024-10-22 16:29:22,718 sending request to get orders
+2024-10-22 16:30:37,861 app started
+2024-10-22 16:30:37,861 sending token request...
+2024-10-22 16:30:38,027 token granted
+2024-10-22 16:30:38,028 sending request to get ids
+2024-10-22 16:30:38,131 organizations data acquired
+2024-10-22 16:30:38,131 sending request to get orders
+2024-10-22 16:31:18,067 app started
+2024-10-22 16:31:18,068 sending token request...
+2024-10-22 16:31:18,215 token granted
+2024-10-22 16:31:18,216 sending request to get ids
+2024-10-22 16:31:18,329 organizations data acquired
+2024-10-22 16:31:18,329 sending request to get orders
+2024-10-22 16:33:16,216 app started
+2024-10-22 16:33:16,217 sending token request...
+2024-10-22 16:33:16,385 token granted
+2024-10-22 16:33:16,386 sending request to get ids
+2024-10-22 16:33:16,487 organizations data acquired
+2024-10-22 16:33:16,488 sending request to get orders
+2024-10-22 16:35:27,721 app started
+2024-10-22 16:35:27,722 sending token request...
+2024-10-22 16:35:27,852 token granted
+2024-10-22 16:35:27,853 sending request to get ids
+2024-10-22 16:35:27,950 organizations data acquired
+2024-10-22 16:35:27,950 sending request to get orders
+2024-10-22 16:35:28,885 request denied with status code {r.status_code}
+2024-10-22 16:35:29,046 request denied with status code {r.status_code}
+2024-10-22 16:35:29,197 request denied with status code {r.status_code}
+2024-10-22 16:35:29,380 request denied with status code {r.status_code}
+2024-10-22 16:37:42,439 app started
+2024-10-22 16:37:42,440 sending token request...
+2024-10-22 16:37:42,610 token granted
+2024-10-22 16:37:42,610 sending request to get ids
+2024-10-22 16:37:42,712 organizations data acquired
+2024-10-22 16:37:42,712 sending request to get orders
+2024-10-22 16:37:43,677 request denied with status code {r.status_code}
+2024-10-22 16:37:43,849 request denied with status code {r.status_code}
+2024-10-22 16:37:44,024 request denied with status code {r.status_code}
+2024-10-22 16:37:44,179 request denied with status code {r.status_code}
+2024-10-22 16:38:12,328 app started
+2024-10-22 16:38:12,328 sending token request...
+2024-10-22 16:38:12,476 token granted
+2024-10-22 16:38:12,476 sending request to get ids
+2024-10-22 16:38:12,579 organizations data acquired
+2024-10-22 16:38:12,580 sending request to get orders
+2024-10-22 16:38:13,428 request denied with status code {r.status_code}
+2024-10-22 16:38:13,608 request denied with status code {r.status_code}
+2024-10-22 16:38:13,773 request denied with status code {r.status_code}
+2024-10-22 16:38:13,967 request denied with status code {r.status_code}
+2024-10-22 16:39:31,531 app started
+2024-10-22 16:39:31,531 sending token request...
+2024-10-22 16:39:31,690 token granted
+2024-10-22 16:39:31,690 sending request to get ids
+2024-10-22 16:39:31,788 organizations data acquired
+2024-10-22 16:39:31,788 sending request to get orders
+2024-10-22 16:39:32,664 request denied with status code {r.status_code}
+2024-10-22 16:39:32,824 request denied with status code {r.status_code}
+2024-10-22 16:39:32,975 request denied with status code {r.status_code}
+2024-10-22 16:39:33,150 request denied with status code {r.status_code}
+2024-10-22 16:39:59,925 app started
+2024-10-22 16:39:59,925 sending token request...
+2024-10-22 16:40:00,060 token granted
+2024-10-22 16:40:00,061 sending request to get ids
+2024-10-22 16:40:00,157 organizations data acquired
+2024-10-22 16:40:00,157 sending request to get orders
+2024-10-22 16:40:01,486 request denied with status code {r.status_code}
+2024-10-22 16:40:01,680 request denied with status code {r.status_code}
+2024-10-22 16:40:01,846 request denied with status code {r.status_code}
+2024-10-22 16:40:02,141 request denied with status code {r.status_code}
+2024-10-22 16:40:12,496 app started
+2024-10-22 16:40:12,497 sending token request...
+2024-10-22 16:40:12,654 token granted
+2024-10-22 16:40:12,654 sending request to get ids
+2024-10-22 16:40:12,754 organizations data acquired
+2024-10-22 16:40:12,754 sending request to get orders
+2024-10-22 16:40:46,343 app started
+2024-10-22 16:40:46,344 sending token request...
+2024-10-22 16:40:46,476 token granted
+2024-10-22 16:40:46,476 sending request to get ids
+2024-10-22 16:40:46,573 organizations data acquired
+2024-10-22 16:40:46,573 sending request to get orders
+2024-10-22 16:41:30,101 app started
+2024-10-22 16:41:30,102 sending token request...
+2024-10-22 16:41:30,319 token granted
+2024-10-22 16:41:30,320 sending request to get ids
+2024-10-22 16:41:30,427 organizations data acquired
+2024-10-22 16:41:30,427 sending request to get orders
+2024-10-22 16:41:58,874 app started
+2024-10-22 16:41:58,875 sending token request...
+2024-10-22 16:41:59,022 token granted
+2024-10-22 16:41:59,022 sending request to get ids
+2024-10-22 16:41:59,127 organizations data acquired
+2024-10-22 16:41:59,127 sending request to get orders
+2024-10-22 16:42:07,390 app started
+2024-10-22 16:42:07,391 sending token request...
+2024-10-22 16:42:07,560 token granted
+2024-10-22 16:42:07,560 sending request to get ids
+2024-10-22 16:42:07,660 organizations data acquired
+2024-10-22 16:42:07,661 sending request to get orders
+2024-10-22 16:42:16,505 app started
+2024-10-22 16:42:16,506 sending token request...
+2024-10-22 16:42:16,653 token granted
+2024-10-22 16:42:16,654 sending request to get ids
+2024-10-22 16:42:16,756 organizations data acquired
+2024-10-22 16:42:16,756 sending request to get orders
+2024-10-22 16:42:45,835 app started
+2024-10-22 16:42:45,836 sending token request...
+2024-10-22 16:42:45,969 token granted
+2024-10-22 16:42:45,970 sending request to get ids
+2024-10-22 16:42:46,082 organizations data acquired
+2024-10-22 16:42:46,082 sending request to get orders
+2024-10-22 16:43:04,531 app started
+2024-10-22 16:43:04,531 sending token request...
+2024-10-22 16:43:04,672 token granted
+2024-10-22 16:43:04,673 sending request to get ids
+2024-10-22 16:43:04,777 organizations data acquired
+2024-10-22 16:43:04,777 sending request to get orders
+2024-10-22 16:43:24,580 app started
+2024-10-22 16:43:24,581 sending token request...
+2024-10-22 16:43:24,717 token granted
+2024-10-22 16:43:24,718 sending request to get ids
+2024-10-22 16:43:24,812 organizations data acquired
+2024-10-22 16:43:24,812 sending request to get orders
+2024-10-22 16:43:31,322 app started
+2024-10-22 16:43:31,323 sending token request...
+2024-10-22 16:43:31,474 token granted
+2024-10-22 16:43:31,474 sending request to get ids
+2024-10-22 16:43:31,569 organizations data acquired
+2024-10-22 16:43:31,569 sending request to get orders
+2024-10-22 16:44:02,103 app started
+2024-10-22 16:44:02,103 sending token request...
+2024-10-22 16:44:02,227 token granted
+2024-10-22 16:44:02,227 sending request to get ids
+2024-10-22 16:44:02,325 organizations data acquired
+2024-10-22 16:44:02,325 sending request to get orders
+2024-10-22 16:44:46,226 app started
+2024-10-22 16:44:46,227 sending token request...
+2024-10-22 16:44:46,381 token granted
+2024-10-22 16:44:46,381 sending request to get ids
+2024-10-22 16:44:46,482 organizations data acquired
+2024-10-22 16:44:46,482 sending request to get orders
+2024-10-22 16:45:17,268 app started
+2024-10-22 16:45:17,269 sending token request...
+2024-10-22 16:45:17,444 token granted
+2024-10-22 16:45:17,444 sending request to get ids
+2024-10-22 16:45:17,592 organizations data acquired
+2024-10-22 16:45:17,592 sending request to get orders
+2024-10-22 16:49:32,733 app started
+2024-10-22 16:49:32,734 sending token request...
+2024-10-22 16:49:32,875 token granted
+2024-10-22 16:49:32,875 sending request to get ids
+2024-10-22 16:49:32,973 organizations data acquired
+2024-10-22 16:49:32,973 sending request to get orders
+2024-10-22 16:51:39,666 app started
+2024-10-22 16:51:39,667 sending token request...
+2024-10-22 16:51:39,821 token granted
+2024-10-22 16:51:39,822 sending request to get ids
+2024-10-22 16:51:39,921 organizations data acquired
+2024-10-22 16:51:39,921 sending request to get orders
+2024-10-22 16:51:57,258 app started
+2024-10-22 16:51:57,259 sending token request...
+2024-10-22 16:51:57,395 token granted
+2024-10-22 16:51:57,397 sending request to get ids
+2024-10-22 16:51:57,498 organizations data acquired
+2024-10-22 16:51:57,498 sending request to get orders
+2024-10-22 16:59:07,019 app started
+2024-10-22 16:59:07,019 sending token request...
+2024-10-22 16:59:07,168 token granted
+2024-10-22 16:59:07,168 sending request to get ids
+2024-10-22 16:59:07,267 organizations data acquired
+2024-10-22 16:59:07,267 sending request to get orders
+2024-10-22 16:59:07,958 sending request to get invoice data
+2024-10-22 16:59:08,053 couldn't fetch invoice data
+2024-10-22 16:59:08,053 sending request to get invoice data
+2024-10-22 16:59:08,150 couldn't fetch invoice data
+2024-10-22 16:59:08,151 sending request to get invoice data
+2024-10-22 16:59:08,246 couldn't fetch invoice data
+2024-10-22 16:59:08,246 sending request to get invoice data
+2024-10-22 16:59:08,337 couldn't fetch invoice data
+2024-10-22 16:59:45,240 app started
+2024-10-22 16:59:45,240 sending token request...
+2024-10-22 16:59:45,399 token granted
+2024-10-22 16:59:45,399 sending request to get ids
+2024-10-22 16:59:45,501 organizations data acquired
+2024-10-22 16:59:45,501 sending request to get orders
+2024-10-22 16:59:46,190 sending request to get invoice data
+2024-10-22 16:59:46,413 sending request to get invoice data
+2024-10-22 16:59:46,563 sending request to get invoice data
+2024-10-22 16:59:46,720 sending request to get invoice data
+2024-10-22 17:04:02,623 app started
+2024-10-22 17:04:02,623 sending token request...
+2024-10-22 17:04:02,775 token granted
+2024-10-22 17:04:02,776 sending request to get ids
+2024-10-22 17:04:02,881 organizations data acquired
+2024-10-22 17:04:02,881 sending request to get orders
+2024-10-22 17:06:13,008 app started
+2024-10-22 17:06:13,009 sending token request...
+2024-10-22 17:06:13,164 token granted
+2024-10-22 17:06:13,164 sending request to get ids
+2024-10-22 17:06:13,256 organizations data acquired
+2024-10-22 17:06:13,256 sending request to get orders
+2024-10-22 17:08:31,017 app started
+2024-10-22 17:08:31,018 sending token request...
+2024-10-22 17:08:31,157 token granted
+2024-10-22 17:08:31,157 sending request to get ids
+2024-10-22 17:08:31,258 organizations data acquired
+2024-10-22 17:08:31,258 sending request to get orders
+2024-10-22 17:10:30,976 app started
+2024-10-22 17:10:30,976 sending token request...
+2024-10-22 17:10:31,126 token granted
+2024-10-22 17:10:31,127 sending request to get ids
+2024-10-22 17:10:31,229 organizations data acquired
+2024-10-22 17:10:31,229 sending request to get orders
+2024-10-22 17:10:40,034 app started
+2024-10-22 17:10:40,035 sending token request...
+2024-10-22 17:10:40,170 token granted
+2024-10-22 17:10:40,171 sending request to get ids
+2024-10-22 17:10:40,269 organizations data acquired
+2024-10-22 17:10:40,269 sending request to get orders
+2024-10-22 17:13:45,593 app started
+2024-10-22 17:13:45,594 sending token request...
+2024-10-22 17:13:45,743 token granted
+2024-10-22 17:13:45,744 sending request to get ids
+2024-10-22 17:13:45,841 organizations data acquired
+2024-10-22 17:13:45,841 sending request to get orders
+2024-10-22 17:14:09,196 app started
+2024-10-22 17:14:09,197 sending token request...
+2024-10-22 17:14:09,321 token granted
+2024-10-22 17:14:09,322 sending request to get ids
+2024-10-22 17:14:09,422 organizations data acquired
+2024-10-22 17:14:09,422 sending request to get orders
+2024-10-22 17:14:48,081 app started
+2024-10-22 17:14:48,082 sending token request...
+2024-10-22 17:14:48,230 token granted
+2024-10-22 17:14:48,230 sending request to get ids
+2024-10-22 17:14:48,326 organizations data acquired
+2024-10-22 17:14:48,327 sending request to get orders
+2024-10-22 17:14:48,770 app started
+2024-10-22 17:14:48,770 sending token request...
+2024-10-22 17:14:48,899 token granted
+2024-10-22 17:14:48,900 sending request to get ids
+2024-10-22 17:14:49,007 organizations data acquired
+2024-10-22 17:14:49,007 sending request to get orders
+2024-10-22 17:14:49,420 app started
+2024-10-22 17:14:49,420 sending token request...
+2024-10-22 17:14:49,550 token granted
+2024-10-22 17:14:49,550 sending request to get ids
+2024-10-22 17:14:49,648 organizations data acquired
+2024-10-22 17:14:49,648 sending request to get orders
+2024-10-22 17:14:50,049 app started
+2024-10-22 17:14:50,050 sending token request...
+2024-10-22 17:14:50,189 token granted
+2024-10-22 17:14:50,190 sending request to get ids
+2024-10-22 17:14:50,298 organizations data acquired
+2024-10-22 17:14:50,298 sending request to get orders
+2024-10-22 17:14:50,737 app started
+2024-10-22 17:14:50,738 sending token request...
+2024-10-22 17:14:50,879 token granted
+2024-10-22 17:14:50,879 sending request to get ids
+2024-10-22 17:14:50,984 organizations data acquired
+2024-10-22 17:14:50,985 sending request to get orders
+2024-10-22 17:14:51,748 app started
+2024-10-22 17:14:51,749 sending token request...
+2024-10-22 17:14:51,871 token granted
+2024-10-22 17:14:51,872 sending request to get ids
+2024-10-22 17:14:51,972 organizations data acquired
+2024-10-22 17:14:51,972 sending request to get orders
+2024-10-22 17:14:52,653 app started
+2024-10-22 17:14:52,653 sending token request...
+2024-10-22 17:14:52,781 token granted
+2024-10-22 17:14:52,781 sending request to get ids
+2024-10-22 17:14:52,882 organizations data acquired
+2024-10-22 17:14:52,882 sending request to get orders
+2024-10-22 17:14:53,345 app started
+2024-10-22 17:14:53,345 sending token request...
+2024-10-22 17:14:53,479 token granted
+2024-10-22 17:14:53,479 sending request to get ids
+2024-10-22 17:14:53,579 organizations data acquired
+2024-10-22 17:14:53,579 sending request to get orders
+2024-10-22 17:14:54,032 app started
+2024-10-22 17:14:54,033 sending token request...
+2024-10-22 17:14:54,154 token granted
+2024-10-22 17:14:54,154 sending request to get ids
+2024-10-22 17:14:54,251 organizations data acquired
+2024-10-22 17:14:54,251 sending request to get orders
+2024-10-22 17:14:54,674 app started
+2024-10-22 17:14:54,675 sending token request...
+2024-10-22 17:14:54,817 token granted
+2024-10-22 17:14:54,817 sending request to get ids
+2024-10-22 17:14:54,918 organizations data acquired
+2024-10-22 17:14:54,918 sending request to get orders
+2024-10-22 17:14:55,395 app started
+2024-10-22 17:14:55,398 sending token request...
+2024-10-22 17:14:55,524 token granted
+2024-10-22 17:14:55,524 sending request to get ids
+2024-10-22 17:14:55,627 organizations data acquired
+2024-10-22 17:14:55,627 sending request to get orders
+2024-10-22 17:14:56,340 app started
+2024-10-22 17:14:56,341 sending token request...
+2024-10-22 17:14:56,466 token granted
+2024-10-22 17:14:56,466 sending request to get ids
+2024-10-22 17:14:56,567 organizations data acquired
+2024-10-22 17:14:56,567 sending request to get orders
+2024-10-22 17:14:57,293 app started
+2024-10-22 17:14:57,293 sending token request...
+2024-10-22 17:14:57,424 token granted
+2024-10-22 17:14:57,424 sending request to get ids
+2024-10-22 17:14:57,525 organizations data acquired
+2024-10-22 17:14:57,525 sending request to get orders
+2024-10-22 17:14:58,284 app started
+2024-10-22 17:14:58,285 sending token request...
+2024-10-22 17:14:58,422 token granted
+2024-10-22 17:14:58,423 sending request to get ids
+2024-10-22 17:14:58,520 organizations data acquired
+2024-10-22 17:14:58,520 sending request to get orders
+2024-10-22 17:14:58,971 app started
+2024-10-22 17:14:58,972 sending token request...
+2024-10-22 17:14:59,101 token granted
+2024-10-22 17:14:59,101 sending request to get ids
+2024-10-22 17:14:59,201 organizations data acquired
+2024-10-22 17:14:59,201 sending request to get orders
+2024-10-22 17:14:59,708 app started
+2024-10-22 17:14:59,709 sending token request...
+2024-10-22 17:14:59,839 token granted
+2024-10-22 17:14:59,839 sending request to get ids
+2024-10-22 17:14:59,938 organizations data acquired
+2024-10-22 17:14:59,939 sending request to get orders
+2024-10-22 17:15:00,415 app started
+2024-10-22 17:15:00,415 sending token request...
+2024-10-22 17:15:00,554 token granted
+2024-10-22 17:15:00,554 sending request to get ids
+2024-10-22 17:15:00,778 organizations data acquired
+2024-10-22 17:15:00,778 sending request to get orders
+2024-10-22 17:15:01,292 app started
+2024-10-22 17:15:01,293 sending token request...
+2024-10-22 17:15:01,422 token granted
+2024-10-22 17:15:01,423 sending request to get ids
+2024-10-22 17:15:01,528 organizations data acquired
+2024-10-22 17:15:01,528 sending request to get orders
+2024-10-22 17:15:02,064 app started
+2024-10-22 17:15:02,065 sending token request...
+2024-10-22 17:15:02,193 token granted
+2024-10-22 17:15:02,194 sending request to get ids
+2024-10-22 17:15:02,311 organizations data acquired
+2024-10-22 17:15:02,312 sending request to get orders
+2024-10-22 17:16:11,637 app started
+2024-10-22 17:16:11,638 sending token request...
+2024-10-22 17:16:11,782 token granted
+2024-10-22 17:16:11,783 sending request to get ids
+2024-10-22 17:16:11,879 organizations data acquired
+2024-10-22 17:16:11,879 sending request to get orders
+2024-10-22 17:29:59,985 app started
+2024-10-22 17:29:59,986 sending token request...
+2024-10-22 17:30:00,128 token granted
+2024-10-22 17:30:00,128 sending request to get ids
+2024-10-22 17:30:00,225 organizations data acquired
+2024-10-22 17:30:00,225 sending request to get orders
+2024-10-22 17:30:00,884 app started
+2024-10-22 17:30:00,885 sending token request...
+2024-10-22 17:30:01,808 token granted
+2024-10-22 17:30:01,809 sending request to get ids
+2024-10-22 17:30:01,933 organizations data acquired
+2024-10-22 17:30:01,933 sending request to get orders
+2024-10-22 17:30:02,469 app started
+2024-10-22 17:30:02,470 sending token request...
+2024-10-22 17:30:02,606 token granted
+2024-10-22 17:30:02,606 sending request to get ids
+2024-10-22 17:30:02,697 organizations data acquired
+2024-10-22 17:30:02,697 sending request to get orders
+2024-10-22 17:30:03,091 app started
+2024-10-22 17:30:03,091 sending token request...
+2024-10-22 17:30:03,215 token granted
+2024-10-22 17:30:03,216 sending request to get ids
+2024-10-22 17:30:03,317 organizations data acquired
+2024-10-22 17:30:03,317 sending request to get orders
+2024-10-22 17:30:03,782 app started
+2024-10-22 17:30:03,783 sending token request...
+2024-10-22 17:30:03,907 token granted
+2024-10-22 17:30:03,907 sending request to get ids
+2024-10-22 17:30:03,999 organizations data acquired
+2024-10-22 17:30:03,999 sending request to get orders
+2024-10-22 17:30:04,780 app started
+2024-10-22 17:30:04,781 sending token request...
+2024-10-22 17:30:04,931 token granted
+2024-10-22 17:30:04,932 sending request to get ids
+2024-10-22 17:30:05,029 organizations data acquired
+2024-10-22 17:30:05,029 sending request to get orders
+2024-10-22 17:30:05,752 app started
+2024-10-22 17:30:05,752 sending token request...
+2024-10-22 17:30:05,889 token granted
+2024-10-22 17:30:05,889 sending request to get ids
+2024-10-22 17:30:05,980 organizations data acquired
+2024-10-22 17:30:05,980 sending request to get orders
+2024-10-22 17:30:06,385 app started
+2024-10-22 17:30:06,386 sending token request...
+2024-10-22 17:30:06,533 token granted
+2024-10-22 17:30:06,533 sending request to get ids
+2024-10-22 17:30:06,629 organizations data acquired
+2024-10-22 17:30:06,629 sending request to get orders
+2024-10-22 17:30:07,074 app started
+2024-10-22 17:30:07,075 sending token request...
+2024-10-22 17:30:07,198 token granted
+2024-10-22 17:30:07,198 sending request to get ids
+2024-10-22 17:30:07,295 organizations data acquired
+2024-10-22 17:30:07,295 sending request to get orders
+2024-10-22 17:30:07,715 app started
+2024-10-22 17:30:07,716 sending token request...
+2024-10-22 17:30:07,896 token granted
+2024-10-22 17:30:07,896 sending request to get ids
+2024-10-22 17:30:07,998 organizations data acquired
+2024-10-22 17:30:07,998 sending request to get orders
+2024-10-22 17:30:08,471 app started
+2024-10-22 17:30:08,472 sending token request...
+2024-10-22 17:30:08,596 token granted
+2024-10-22 17:30:08,596 sending request to get ids
+2024-10-22 17:30:08,692 organizations data acquired
+2024-10-22 17:30:08,692 sending request to get orders
+2024-10-22 17:30:20,393 app started
+2024-10-22 17:30:20,394 sending token request...
+2024-10-22 17:30:20,520 token granted
+2024-10-22 17:30:20,520 sending request to get ids
+2024-10-22 17:30:20,616 organizations data acquired
+2024-10-22 17:30:20,617 sending request to get orders
+2024-10-22 17:30:20,988 app started
+2024-10-22 17:30:20,988 sending token request...
+2024-10-22 17:30:21,130 token granted
+2024-10-22 17:30:21,130 sending request to get ids
+2024-10-22 17:30:21,231 organizations data acquired
+2024-10-22 17:30:21,231 sending request to get orders
+2024-10-22 17:30:21,686 app started
+2024-10-22 17:30:21,686 sending token request...
+2024-10-22 17:30:21,809 token granted
+2024-10-22 17:30:21,809 sending request to get ids
+2024-10-22 17:30:21,912 organizations data acquired
+2024-10-22 17:30:21,912 sending request to get orders
+2024-10-22 17:30:22,368 app started
+2024-10-22 17:30:22,369 sending token request...
+2024-10-22 17:30:22,504 token granted
+2024-10-22 17:30:22,504 sending request to get ids
+2024-10-22 17:30:22,602 organizations data acquired
+2024-10-22 17:30:22,602 sending request to get orders
+2024-10-22 17:30:23,121 app started
+2024-10-22 17:30:23,124 sending token request...
+2024-10-22 17:30:23,245 token granted
+2024-10-22 17:30:23,245 sending request to get ids
+2024-10-22 17:30:23,341 organizations data acquired
+2024-10-22 17:30:23,341 sending request to get orders
+2024-10-22 17:30:24,151 app started
+2024-10-22 17:30:24,152 sending token request...
+2024-10-22 17:30:24,283 token granted
+2024-10-22 17:30:24,283 sending request to get ids
+2024-10-22 17:30:24,392 organizations data acquired
+2024-10-22 17:30:24,392 sending request to get orders
+2024-10-22 17:30:25,088 app started
+2024-10-22 17:30:25,089 sending token request...
+2024-10-22 17:30:25,231 token granted
+2024-10-22 17:30:25,231 sending request to get ids
+2024-10-22 17:30:25,330 organizations data acquired
+2024-10-22 17:30:25,330 sending request to get orders
+2024-10-22 17:30:25,837 app started
+2024-10-22 17:30:25,838 sending token request...
+2024-10-22 17:30:25,973 token granted
+2024-10-22 17:30:25,974 sending request to get ids
+2024-10-22 17:30:26,079 organizations data acquired
+2024-10-22 17:30:26,079 sending request to get orders
+2024-10-22 17:30:26,512 app started
+2024-10-22 17:30:26,513 sending token request...
+2024-10-22 17:30:26,642 token granted
+2024-10-22 17:30:26,643 sending request to get ids
+2024-10-22 17:30:26,737 organizations data acquired
+2024-10-22 17:30:26,737 sending request to get orders
+2024-10-22 17:30:27,153 app started
+2024-10-22 17:30:27,154 sending token request...
+2024-10-22 17:30:27,282 token granted
+2024-10-22 17:30:27,282 sending request to get ids
+2024-10-22 17:30:27,382 organizations data acquired
+2024-10-22 17:30:27,382 sending request to get orders
+2024-10-22 17:30:28,011 app started
+2024-10-22 17:30:28,012 sending token request...
+2024-10-22 17:30:28,144 token granted
+2024-10-22 17:30:28,144 sending request to get ids
+2024-10-22 17:30:28,243 organizations data acquired
+2024-10-22 17:30:28,243 sending request to get orders
+2024-10-22 17:30:28,908 app started
+2024-10-22 17:30:28,908 sending token request...
+2024-10-22 17:30:29,047 token granted
+2024-10-22 17:30:29,047 sending request to get ids
+2024-10-22 17:30:29,144 organizations data acquired
+2024-10-22 17:30:29,144 sending request to get orders
+2024-10-22 17:30:29,856 app started
+2024-10-22 17:30:29,856 sending token request...
+2024-10-22 17:30:29,978 token granted
+2024-10-22 17:30:29,979 sending request to get ids
+2024-10-22 17:30:30,078 organizations data acquired
+2024-10-22 17:30:30,078 sending request to get orders
+2024-10-22 17:30:30,812 app started
+2024-10-22 17:30:30,813 sending token request...
+2024-10-22 17:30:30,960 token granted
+2024-10-22 17:30:30,960 sending request to get ids
+2024-10-22 17:30:31,056 organizations data acquired
+2024-10-22 17:30:31,056 sending request to get orders
+2024-10-22 17:30:31,500 app started
+2024-10-22 17:30:31,501 sending token request...
+2024-10-22 17:30:31,646 token granted
+2024-10-22 17:30:31,646 sending request to get ids
+2024-10-22 17:30:31,738 organizations data acquired
+2024-10-22 17:30:31,738 sending request to get orders
+2024-10-22 17:30:32,174 app started
+2024-10-22 17:30:32,176 sending token request...
+2024-10-22 17:30:32,300 token granted
+2024-10-22 17:30:32,301 sending request to get ids
+2024-10-22 17:30:32,404 organizations data acquired
+2024-10-22 17:30:32,404 sending request to get orders
+2024-10-22 17:30:32,860 app started
+2024-10-22 17:30:32,861 sending token request...
+2024-10-22 17:30:32,990 token granted
+2024-10-22 17:30:32,991 sending request to get ids
+2024-10-22 17:30:33,089 organizations data acquired
+2024-10-22 17:30:33,089 sending request to get orders
+2024-10-22 17:30:33,523 app started
+2024-10-22 17:30:33,525 sending token request...
+2024-10-22 17:30:33,653 token granted
+2024-10-22 17:30:33,654 sending request to get ids
+2024-10-22 17:30:33,765 organizations data acquired
+2024-10-22 17:30:33,765 sending request to get orders
+2024-10-22 17:30:34,362 app started
+2024-10-22 17:30:34,363 sending token request...
+2024-10-22 17:30:34,496 token granted
+2024-10-22 17:30:34,496 sending request to get ids
+2024-10-22 17:30:34,600 organizations data acquired
+2024-10-22 17:30:34,600 sending request to get orders
+2024-10-22 17:36:41,870 app started
+2024-10-22 17:36:41,871 sending token request...
+2024-10-22 17:36:42,013 token granted
+2024-10-22 17:36:42,013 sending request to get ids
+2024-10-22 17:36:42,117 organizations data acquired
+2024-10-22 17:36:42,118 sending request to get orders
+2024-10-22 17:36:42,793 app started
+2024-10-22 17:36:42,793 sending token request...
+2024-10-22 17:36:42,936 token granted
+2024-10-22 17:36:42,936 sending request to get ids
+2024-10-22 17:36:43,039 organizations data acquired
+2024-10-22 17:36:43,039 sending request to get orders
+2024-10-22 17:36:43,496 app started
+2024-10-22 17:36:43,498 sending token request...
+2024-10-22 17:36:43,634 token granted
+2024-10-22 17:36:43,635 sending request to get ids
+2024-10-22 17:36:43,738 organizations data acquired
+2024-10-22 17:36:43,738 sending request to get orders
+2024-10-22 17:36:44,222 app started
+2024-10-22 17:36:44,223 sending token request...
+2024-10-22 17:36:44,376 token granted
+2024-10-22 17:36:44,376 sending request to get ids
+2024-10-22 17:36:44,478 organizations data acquired
+2024-10-22 17:36:44,478 sending request to get orders
+2024-10-22 17:36:44,975 app started
+2024-10-22 17:36:44,977 sending token request...
+2024-10-22 17:36:45,110 token granted
+2024-10-22 17:36:45,111 sending request to get ids
+2024-10-22 17:36:45,210 organizations data acquired
+2024-10-22 17:36:45,210 sending request to get orders
+2024-10-22 17:36:46,016 app started
+2024-10-22 17:36:46,017 sending token request...
+2024-10-22 17:36:46,157 token granted
+2024-10-22 17:36:46,157 sending request to get ids
+2024-10-22 17:36:46,256 organizations data acquired
+2024-10-22 17:36:46,256 sending request to get orders
+2024-10-22 17:36:46,975 app started
+2024-10-22 17:36:46,979 sending token request...
+2024-10-22 17:36:47,122 token granted
+2024-10-22 17:36:47,122 sending request to get ids
+2024-10-22 17:36:47,230 organizations data acquired
+2024-10-22 17:36:47,230 sending request to get orders
+2024-10-22 17:36:47,684 app started
+2024-10-22 17:36:47,685 sending token request...
+2024-10-22 17:36:47,815 token granted
+2024-10-22 17:36:47,816 sending request to get ids
+2024-10-22 17:36:47,910 organizations data acquired
+2024-10-22 17:36:47,910 sending request to get orders
+2024-10-22 17:36:48,341 app started
+2024-10-22 17:36:48,341 sending token request...
+2024-10-22 17:36:48,478 token granted
+2024-10-22 17:36:48,479 sending request to get ids
+2024-10-22 17:36:48,577 organizations data acquired
+2024-10-22 17:36:48,577 sending request to get orders
+2024-10-22 17:36:48,958 app started
+2024-10-22 17:36:48,958 sending token request...
+2024-10-22 17:36:49,087 token granted
+2024-10-22 17:36:49,088 sending request to get ids
+2024-10-22 17:36:49,183 organizations data acquired
+2024-10-22 17:36:49,183 sending request to get orders
+2024-10-22 17:36:49,692 app started
+2024-10-22 17:36:49,692 sending token request...
+2024-10-22 17:36:49,827 token granted
+2024-10-22 17:36:49,827 sending request to get ids
+2024-10-22 17:36:49,932 organizations data acquired
+2024-10-22 17:36:49,932 sending request to get orders
+2024-10-22 17:36:50,601 app started
+2024-10-22 17:36:50,601 sending token request...
+2024-10-22 17:36:50,738 token granted
+2024-10-22 17:36:50,738 sending request to get ids
+2024-10-22 17:36:50,842 organizations data acquired
+2024-10-22 17:36:50,842 sending request to get orders
+2024-10-22 17:36:51,589 app started
+2024-10-22 17:36:51,589 sending token request...
+2024-10-22 17:36:51,730 token granted
+2024-10-22 17:36:51,730 sending request to get ids
+2024-10-22 17:36:51,830 organizations data acquired
+2024-10-22 17:36:51,830 sending request to get orders
+2024-10-22 17:36:52,493 app started
+2024-10-22 17:36:52,495 sending token request...
+2024-10-22 17:36:52,629 token granted
+2024-10-22 17:36:52,629 sending request to get ids
+2024-10-22 17:36:52,746 organizations data acquired
+2024-10-22 17:36:52,746 sending request to get orders
+2024-10-22 17:36:53,201 app started
+2024-10-22 17:36:53,202 sending token request...
+2024-10-22 17:36:53,337 token granted
+2024-10-22 17:36:53,337 sending request to get ids
+2024-10-22 17:36:53,435 organizations data acquired
+2024-10-22 17:36:53,435 sending request to get orders
+2024-10-22 17:36:53,845 app started
+2024-10-22 17:36:53,846 sending token request...
+2024-10-22 17:36:53,974 token granted
+2024-10-22 17:36:53,974 sending request to get ids
+2024-10-22 17:36:54,072 organizations data acquired
+2024-10-22 17:36:54,072 sending request to get orders
+2024-10-22 17:36:54,492 app started
+2024-10-22 17:36:54,493 sending token request...
+2024-10-22 17:36:54,635 token granted
+2024-10-22 17:36:54,636 sending request to get ids
+2024-10-22 17:36:54,735 organizations data acquired
+2024-10-22 17:36:54,735 sending request to get orders
+2024-10-22 17:36:55,143 app started
+2024-10-22 17:36:55,146 sending token request...
+2024-10-22 17:36:55,283 token granted
+2024-10-22 17:36:55,283 sending request to get ids
+2024-10-22 17:36:55,379 organizations data acquired
+2024-10-22 17:36:55,379 sending request to get orders
+2024-10-22 17:36:55,810 app started
+2024-10-22 17:36:55,810 sending token request...
+2024-10-22 17:36:55,941 token granted
+2024-10-22 17:36:55,941 sending request to get ids
+2024-10-22 17:36:56,043 organizations data acquired
+2024-10-22 17:36:56,043 sending request to get orders
+2024-10-22 17:37:02,868 app started
+2024-10-22 17:37:02,869 sending token request...
+2024-10-22 17:37:03,005 token granted
+2024-10-22 17:37:03,005 sending request to get ids
+2024-10-22 17:37:03,100 organizations data acquired
+2024-10-22 17:37:03,100 sending request to get orders
+2024-10-22 17:37:03,539 app started
+2024-10-22 17:37:03,540 sending token request...
+2024-10-22 17:37:03,691 token granted
+2024-10-22 17:37:03,691 sending request to get ids
+2024-10-22 17:37:03,794 organizations data acquired
+2024-10-22 17:37:03,794 sending request to get orders
+2024-10-22 17:37:04,277 app started
+2024-10-22 17:37:04,280 sending token request...
+2024-10-22 17:37:04,416 token granted
+2024-10-22 17:37:04,417 sending request to get ids
+2024-10-22 17:37:04,519 organizations data acquired
+2024-10-22 17:37:04,519 sending request to get orders
+2024-10-22 17:37:04,994 app started
+2024-10-22 17:37:04,996 sending token request...
+2024-10-22 17:37:05,138 token granted
+2024-10-22 17:37:05,138 sending request to get ids
+2024-10-22 17:37:05,256 organizations data acquired
+2024-10-22 17:37:05,256 sending request to get orders
+2024-10-22 17:37:05,847 app started
+2024-10-22 17:37:05,850 sending token request...
+2024-10-22 17:37:05,995 token granted
+2024-10-22 17:37:05,995 sending request to get ids
+2024-10-22 17:37:06,098 organizations data acquired
+2024-10-22 17:37:06,098 sending request to get orders
+2024-10-22 17:37:06,876 app started
+2024-10-22 17:37:06,879 sending token request...
+2024-10-22 17:37:07,018 token granted
+2024-10-22 17:37:07,019 sending request to get ids
+2024-10-22 17:37:07,117 organizations data acquired
+2024-10-22 17:37:07,117 sending request to get orders
+2024-10-22 17:37:07,950 app started
+2024-10-22 17:37:07,950 sending token request...
+2024-10-22 17:37:08,077 token granted
+2024-10-22 17:37:08,078 sending request to get ids
+2024-10-22 17:37:08,182 organizations data acquired
+2024-10-22 17:37:08,182 sending request to get orders
+2024-10-22 17:37:08,670 app started
+2024-10-22 17:37:08,670 sending token request...
+2024-10-22 17:37:08,807 token granted
+2024-10-22 17:37:08,808 sending request to get ids
+2024-10-22 17:37:08,911 organizations data acquired
+2024-10-22 17:37:08,911 sending request to get orders
+2024-10-22 17:37:09,316 app started
+2024-10-22 17:37:09,316 sending token request...
+2024-10-22 17:37:09,457 token granted
+2024-10-22 17:37:09,458 sending request to get ids
+2024-10-22 17:37:09,566 organizations data acquired
+2024-10-22 17:37:09,566 sending request to get orders
+2024-10-22 17:37:10,044 app started
+2024-10-22 17:37:10,045 sending token request...
+2024-10-22 17:37:10,165 token granted
+2024-10-22 17:37:10,165 sending request to get ids
+2024-10-22 17:37:10,267 organizations data acquired
+2024-10-22 17:37:10,267 sending request to get orders
+2024-10-22 17:37:10,726 app started
+2024-10-22 17:37:10,726 sending token request...
+2024-10-22 17:37:10,864 token granted
+2024-10-22 17:37:10,865 sending request to get ids
+2024-10-22 17:37:10,966 organizations data acquired
+2024-10-22 17:37:10,966 sending request to get orders
+2024-10-22 17:37:11,614 app started
+2024-10-22 17:37:11,614 sending token request...
+2024-10-22 17:37:11,746 token granted
+2024-10-22 17:37:11,746 sending request to get ids
+2024-10-22 17:37:11,849 organizations data acquired
+2024-10-22 17:37:11,849 sending request to get orders
+2024-10-22 17:37:12,573 app started
+2024-10-22 17:37:12,575 sending token request...
+2024-10-22 17:37:12,712 token granted
+2024-10-22 17:37:12,712 sending request to get ids
+2024-10-22 17:37:12,810 organizations data acquired
+2024-10-22 17:37:12,810 sending request to get orders
+2024-10-22 17:39:13,400 app started
+2024-10-22 17:39:13,401 sending token request...
+2024-10-22 17:39:13,526 token granted
+2024-10-22 17:39:13,526 sending request to get ids
+2024-10-22 17:39:13,622 organizations data acquired
+2024-10-22 17:39:13,622 sending request to get orders
+2024-10-22 17:39:14,049 app started
+2024-10-22 17:39:14,050 sending token request...
+2024-10-22 17:39:14,207 token granted
+2024-10-22 17:39:14,207 sending request to get ids
+2024-10-22 17:39:14,305 organizations data acquired
+2024-10-22 17:39:14,305 sending request to get orders
+2024-10-22 17:39:14,799 app started
+2024-10-22 17:39:14,799 sending token request...
+2024-10-22 17:39:14,943 token granted
+2024-10-22 17:39:14,943 sending request to get ids
+2024-10-22 17:39:15,040 organizations data acquired
+2024-10-22 17:39:15,040 sending request to get orders
+2024-10-22 17:39:15,482 app started
+2024-10-22 17:39:15,483 sending token request...
+2024-10-22 17:39:15,631 token granted
+2024-10-22 17:39:15,632 sending request to get ids
+2024-10-22 17:39:15,726 organizations data acquired
+2024-10-22 17:39:15,726 sending request to get orders
+2024-10-22 17:39:16,231 app started
+2024-10-22 17:39:16,232 sending token request...
+2024-10-22 17:39:16,359 token granted
+2024-10-22 17:39:16,360 sending request to get ids
+2024-10-22 17:39:16,458 organizations data acquired
+2024-10-22 17:39:16,458 sending request to get orders
+2024-10-22 17:39:17,149 app started
+2024-10-22 17:39:17,150 sending token request...
+2024-10-22 17:39:17,293 token granted
+2024-10-22 17:39:17,294 sending request to get ids
+2024-10-22 17:39:17,392 organizations data acquired
+2024-10-22 17:39:17,392 sending request to get orders
+2024-10-22 17:39:18,154 app started
+2024-10-22 17:39:18,155 sending token request...
+2024-10-22 17:39:18,284 token granted
+2024-10-22 17:39:18,284 sending request to get ids
+2024-10-22 17:39:18,382 organizations data acquired
+2024-10-22 17:39:18,382 sending request to get orders
+2024-10-22 17:39:18,799 app started
+2024-10-22 17:39:18,800 sending token request...
+2024-10-22 17:39:18,933 token granted
+2024-10-22 17:39:18,933 sending request to get ids
+2024-10-22 17:39:19,032 organizations data acquired
+2024-10-22 17:39:19,032 sending request to get orders
+2024-10-22 17:39:19,527 app started
+2024-10-22 17:39:19,527 sending token request...
+2024-10-22 17:39:19,665 token granted
+2024-10-22 17:39:19,665 sending request to get ids
+2024-10-22 17:39:19,762 organizations data acquired
+2024-10-22 17:39:19,762 sending request to get orders
+2024-10-22 17:39:20,239 app started
+2024-10-22 17:39:20,242 sending token request...
+2024-10-22 17:39:20,378 token granted
+2024-10-22 17:39:20,378 sending request to get ids
+2024-10-22 17:39:20,488 organizations data acquired
+2024-10-22 17:39:20,488 sending request to get orders
+2024-10-22 17:39:20,970 app started
+2024-10-22 17:39:20,973 sending token request...
+2024-10-22 17:39:21,122 token granted
+2024-10-22 17:39:21,122 sending request to get ids
+2024-10-22 17:39:21,219 organizations data acquired
+2024-10-22 17:39:21,219 sending request to get orders
+2024-10-22 17:39:21,807 app started
+2024-10-22 17:39:21,809 sending token request...
+2024-10-22 17:39:21,936 token granted
+2024-10-22 17:39:21,937 sending request to get ids
+2024-10-22 17:39:22,036 organizations data acquired
+2024-10-22 17:39:22,036 sending request to get orders
+2024-10-22 17:39:22,742 app started
+2024-10-22 17:39:22,743 sending token request...
+2024-10-22 17:39:22,869 token granted
+2024-10-22 17:39:22,869 sending request to get ids
+2024-10-22 17:39:22,979 organizations data acquired
+2024-10-22 17:39:22,979 sending request to get orders
+2024-10-22 17:39:23,691 app started
+2024-10-22 17:39:23,691 sending token request...
+2024-10-22 17:39:23,824 token granted
+2024-10-22 17:39:23,824 sending request to get ids
+2024-10-22 17:39:23,921 organizations data acquired
+2024-10-22 17:39:23,921 sending request to get orders
+2024-10-22 17:39:24,392 app started
+2024-10-22 17:39:24,393 sending token request...
+2024-10-22 17:39:24,528 token granted
+2024-10-22 17:39:24,528 sending request to get ids
+2024-10-22 17:39:24,629 organizations data acquired
+2024-10-22 17:39:24,629 sending request to get orders
+2024-10-22 17:39:25,084 app started
+2024-10-22 17:39:25,085 sending token request...
+2024-10-22 17:39:25,219 token granted
+2024-10-22 17:39:25,219 sending request to get ids
+2024-10-22 17:39:25,316 organizations data acquired
+2024-10-22 17:39:25,316 sending request to get orders
+2024-10-22 17:39:25,815 app started
+2024-10-22 17:39:25,816 sending token request...
+2024-10-22 17:39:25,949 token granted
+2024-10-22 17:39:25,949 sending request to get ids
+2024-10-22 17:39:26,052 organizations data acquired
+2024-10-22 17:39:26,052 sending request to get orders
+2024-10-22 17:39:26,514 app started
+2024-10-22 17:39:26,517 sending token request...
+2024-10-22 17:39:26,652 token granted
+2024-10-22 17:39:26,652 sending request to get ids
+2024-10-22 17:39:26,752 organizations data acquired
+2024-10-22 17:39:26,752 sending request to get orders
+2024-10-22 17:39:27,222 app started
+2024-10-22 17:39:27,223 sending token request...
+2024-10-22 17:39:27,356 token granted
+2024-10-22 17:39:27,356 sending request to get ids
+2024-10-22 17:39:27,457 organizations data acquired
+2024-10-22 17:39:27,458 sending request to get orders
+2024-10-22 17:41:04,661 app started
+2024-10-22 17:41:04,662 sending token request...
+2024-10-22 17:41:04,826 token granted
+2024-10-22 17:41:04,827 sending request to get ids
+2024-10-22 17:41:04,927 organizations data acquired
+2024-10-22 17:41:04,928 sending request to get orders
+2024-10-22 17:41:05,431 app started
+2024-10-22 17:41:05,431 sending token request...
+2024-10-22 17:41:05,552 token granted
+2024-10-22 17:41:05,552 sending request to get ids
+2024-10-22 17:41:05,700 organizations data acquired
+2024-10-22 17:41:05,700 sending request to get orders
+2024-10-22 17:41:06,155 app started
+2024-10-22 17:41:06,156 sending token request...
+2024-10-22 17:41:06,288 token granted
+2024-10-22 17:41:06,288 sending request to get ids
+2024-10-22 17:41:06,384 organizations data acquired
+2024-10-22 17:41:06,384 sending request to get orders
+2024-10-22 17:41:06,805 app started
+2024-10-22 17:41:06,806 sending token request...
+2024-10-22 17:41:06,934 token granted
+2024-10-22 17:41:06,934 sending request to get ids
+2024-10-22 17:41:07,033 organizations data acquired
+2024-10-22 17:41:07,033 sending request to get orders
+2024-10-22 17:41:37,254 app started
+2024-10-22 17:41:37,254 sending token request...
+2024-10-22 17:41:37,387 token granted
+2024-10-22 17:41:37,387 sending request to get ids
+2024-10-22 17:41:37,490 organizations data acquired
+2024-10-22 17:41:37,490 sending request to get orders
+2024-10-22 17:41:37,938 app started
+2024-10-22 17:41:37,940 sending token request...
+2024-10-22 17:41:38,075 token granted
+2024-10-22 17:41:38,075 sending request to get ids
+2024-10-22 17:41:38,174 organizations data acquired
+2024-10-22 17:41:38,174 sending request to get orders
+2024-10-22 17:41:38,601 app started
+2024-10-22 17:41:38,601 sending token request...
+2024-10-22 17:41:38,732 token granted
+2024-10-22 17:41:38,732 sending request to get ids
+2024-10-22 17:41:38,832 organizations data acquired
+2024-10-22 17:41:38,832 sending request to get orders
+2024-10-22 17:41:39,294 app started
+2024-10-22 17:41:39,296 sending token request...
+2024-10-22 17:41:39,441 token granted
+2024-10-22 17:41:39,442 sending request to get ids
+2024-10-22 17:41:39,549 organizations data acquired
+2024-10-22 17:41:39,549 sending request to get orders
+2024-10-22 17:41:39,988 app started
+2024-10-22 17:41:39,989 sending token request...
+2024-10-22 17:41:40,143 token granted
+2024-10-22 17:41:40,144 sending request to get ids
+2024-10-22 17:41:40,259 organizations data acquired
+2024-10-22 17:41:40,259 sending request to get orders
+2024-10-22 17:41:41,086 app started
+2024-10-22 17:41:41,087 sending token request...
+2024-10-22 17:41:41,220 token granted
+2024-10-22 17:41:41,220 sending request to get ids
+2024-10-22 17:41:41,320 organizations data acquired
+2024-10-22 17:41:41,320 sending request to get orders
+2024-10-22 17:41:41,959 app started
+2024-10-22 17:41:41,960 sending token request...
+2024-10-22 17:41:42,093 token granted
+2024-10-22 17:41:42,094 sending request to get ids
+2024-10-22 17:41:42,201 organizations data acquired
+2024-10-22 17:41:42,201 sending request to get orders
+2024-10-22 17:41:42,638 app started
+2024-10-22 17:41:42,639 sending token request...
+2024-10-22 17:41:42,786 token granted
+2024-10-22 17:41:42,786 sending request to get ids
+2024-10-22 17:41:42,889 organizations data acquired
+2024-10-22 17:41:42,889 sending request to get orders
+2024-10-22 17:41:43,323 app started
+2024-10-22 17:41:43,323 sending token request...
+2024-10-22 17:41:43,462 token granted
+2024-10-22 17:41:43,463 sending request to get ids
+2024-10-22 17:41:43,560 organizations data acquired
+2024-10-22 17:41:43,560 sending request to get orders
+2024-10-22 17:41:44,021 app started
+2024-10-22 17:41:44,023 sending token request...
+2024-10-22 17:41:44,183 token granted
+2024-10-22 17:41:44,184 sending request to get ids
+2024-10-22 17:41:44,291 organizations data acquired
+2024-10-22 17:41:44,291 sending request to get orders
+2024-10-22 17:41:44,725 app started
+2024-10-22 17:41:44,726 sending token request...
+2024-10-22 17:41:44,847 token granted
+2024-10-22 17:41:44,847 sending request to get ids
+2024-10-22 17:41:44,946 organizations data acquired
+2024-10-22 17:41:44,947 sending request to get orders
+2024-10-22 17:41:45,528 app started
+2024-10-22 17:41:45,530 sending token request...
+2024-10-22 17:41:45,666 token granted
+2024-10-22 17:41:45,666 sending request to get ids
+2024-10-22 17:41:45,765 organizations data acquired
+2024-10-22 17:41:45,765 sending request to get orders
+2024-10-22 17:41:46,435 app started
+2024-10-22 17:41:46,436 sending token request...
+2024-10-22 17:41:46,579 token granted
+2024-10-22 17:41:46,579 sending request to get ids
+2024-10-22 17:41:46,686 organizations data acquired
+2024-10-22 17:41:46,686 sending request to get orders
+2024-10-22 17:41:47,349 app started
+2024-10-22 17:41:47,349 sending token request...
+2024-10-22 17:41:47,497 token granted
+2024-10-22 17:41:47,498 sending request to get ids
+2024-10-22 17:41:47,607 organizations data acquired
+2024-10-22 17:41:47,607 sending request to get orders
+2024-10-22 17:41:48,027 app started
+2024-10-22 17:41:48,027 sending token request...
+2024-10-22 17:41:48,163 token granted
+2024-10-22 17:41:48,163 sending request to get ids
+2024-10-22 17:41:48,262 organizations data acquired
+2024-10-22 17:41:48,262 sending request to get orders
+2024-10-22 17:41:48,692 app started
+2024-10-22 17:41:48,692 sending token request...
+2024-10-22 17:41:48,829 token granted
+2024-10-22 17:41:48,829 sending request to get ids
+2024-10-22 17:41:48,926 organizations data acquired
+2024-10-22 17:41:48,926 sending request to get orders
