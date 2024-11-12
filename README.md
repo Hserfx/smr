@@ -8,7 +8,7 @@ SMR to aplikacja napisana w Pythonie, która integruje się z API GoPOS, umożli
 - **Autoryzacja z GoPOS API**: Pobiera token dostępu potrzebny do komunikacji z GoPOS API.
 - **Pobieranie zamówień**: Zbiera informacje o zamówieniach w zadanym zakresie dat.
 - **Pobieranie faktur**: Pozyskuje szczegóły faktur powiązanych z zamówieniami.
-- **Generowanie raportów sprzedażowych i podatkowych**: Tworzy raporty w formacie tekstowym zawierające szczegóły sprzedaży, podatków oraz metod płatności.
+- **Generowanie raportów sprzedażowych i podatkowych**: Tworzy raporty w formacie tekstowym zawierające szczegóły sprzedaży, podatków oraz metod płatności gotowych do zaimportowania w systemie ENOVA.
 
 ## Wymagania
 
