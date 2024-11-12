@@ -66,7 +66,6 @@ python main.py
 ## Struktura projektu
 
 - **`main.py`**: Główne funkcje skryptu odpowiedzialne za komunikację z API i generowanie raportów.
-- **`utils.py`** (jeśli istnieje): Funkcje pomocnicze do zarządzania danymi, jak formatowanie raportów czy zapisywanie plików.
 
 ## Uwagi
 
